@@ -68,7 +68,7 @@
             "last_commit": "2024-01-15T13:55:44Z",
             "owner": "sjwhitworth",
             "repo": "golearn",
-            "stars": 9438
+            "stars": 9437
           }
         },
         {
@@ -158,10 +158,10 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-08-13T03:54:42Z",
+            "last_commit": "2026-08-13T08:37:14Z",
             "owner": "apache",
             "repo": "spark",
-            "stars": 43857
+            "stars": 43861
           }
         },
         {
@@ -424,7 +424,7 @@
           "repo_info": {
             "archived": false,
             "language": "Julia",
-            "last_commit": "2026-08-12T17:30:10Z",
+            "last_commit": "2026-08-13T08:30:16Z",
             "owner": "JuliaStats",
             "repo": "MixedModels.jl",
             "stars": 449
@@ -1099,7 +1099,7 @@
             "last_commit": "2024-08-21T09:23:45Z",
             "owner": "fxsjy",
             "repo": "jieba",
-            "stars": 35113
+            "stars": 35112
           }
         },
         {
@@ -1203,7 +1203,7 @@
             "last_commit": "2024-12-03T17:50:20Z",
             "owner": "numenta",
             "repo": "nupic-legacy",
-            "stars": 6352
+            "stars": 6351
           }
         },
         {
@@ -1425,7 +1425,7 @@
             "last_commit": "2024-02-13T08:02:51Z",
             "owner": "quantopian",
             "repo": "zipline",
-            "stars": 20031
+            "stars": 20032
           }
         },
         {
@@ -1453,7 +1453,7 @@
             "last_commit": "2026-08-12T22:57:08Z",
             "owner": "statsmodels",
             "repo": "statsmodels",
-            "stars": 11566
+            "stars": 11568
           }
         },
         {
@@ -1571,7 +1571,7 @@
             "last_commit": "2024-10-24T02:01:47Z",
             "owner": "jvns",
             "repo": "pandas-cookbook",
-            "stars": 7103
+            "stars": 7104
           }
         },
         {
@@ -1585,7 +1585,7 @@
             "last_commit": "2024-12-03T17:50:20Z",
             "owner": "numenta",
             "repo": "nupic-legacy",
-            "stars": 6352
+            "stars": 6351
           }
         },
         {
@@ -2574,7 +2574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:22:59.928Z",
+    "last_updated": "2026-08-13T08:42:03.492Z",
     "original_repository": "jobbole/awesome-machine-learning-cn",
     "original_repository_sha": "328b9c33ecb2827766e0a56dff810308efebdeb9",
     "enhanced_repository": "enhansome/enhansome-machine-learning-cn",
