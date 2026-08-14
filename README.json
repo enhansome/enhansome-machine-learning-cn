@@ -158,10 +158,10 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-08-13T08:37:14Z",
+            "last_commit": "2026-08-14T07:34:27Z",
             "owner": "apache",
             "repo": "spark",
-            "stars": 43861
+            "stars": 43871
           }
         },
         {
@@ -214,7 +214,7 @@
             "last_commit": "2026-02-22T21:53:54Z",
             "owner": "NaturalNode",
             "repo": "natural",
-            "stars": 10878
+            "stars": 10879
           }
         },
         {
@@ -276,7 +276,7 @@
             "last_commit": "2020-09-03T20:20:29Z",
             "owner": "harthur",
             "repo": "brain",
-            "stars": 7987
+            "stars": 7988
           }
         },
         {
@@ -424,7 +424,7 @@
           "repo_info": {
             "archived": false,
             "language": "Julia",
-            "last_commit": "2026-08-13T08:30:16Z",
+            "last_commit": "2026-08-13T11:02:28Z",
             "owner": "JuliaStats",
             "repo": "MixedModels.jl",
             "stars": 449
@@ -747,7 +747,7 @@
             "last_commit": "2026-08-12T07:15:35Z",
             "owner": "JuliaData",
             "repo": "DataFrames.jl",
-            "stars": 1830
+            "stars": 1831
           }
         },
         {
@@ -1099,7 +1099,7 @@
             "last_commit": "2024-08-21T09:23:45Z",
             "owner": "fxsjy",
             "repo": "jieba",
-            "stars": 35112
+            "stars": 35115
           }
         },
         {
@@ -1113,7 +1113,7 @@
             "last_commit": "2020-01-19T02:39:05Z",
             "owner": "isnowfy",
             "repo": "snownlp",
-            "stars": 6631
+            "stars": 6633
           }
         },
         {
@@ -1175,7 +1175,7 @@
             "last_commit": "2025-11-01T12:01:39Z",
             "owner": "piskvorky",
             "repo": "gensim",
-            "stars": 16481
+            "stars": 16480
           }
         },
         {
@@ -1273,7 +1273,7 @@
             "last_commit": "2020-12-29T07:08:13Z",
             "owner": "ocelma",
             "repo": "python-recsys",
-            "stars": 1481
+            "stars": 1480
           }
         },
         {
@@ -1408,7 +1408,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T20:07:38Z",
+            "last_commit": "2026-08-14T08:19:06Z",
             "owner": "bokeh",
             "repo": "bokeh",
             "stars": 20429
@@ -1425,7 +1425,7 @@
             "last_commit": "2024-02-13T08:02:51Z",
             "owner": "quantopian",
             "repo": "zipline",
-            "stars": 20032
+            "stars": 20034
           }
         },
         {
@@ -1436,10 +1436,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T16:46:18Z",
+            "last_commit": "2026-08-13T17:58:56Z",
             "owner": "sympy",
             "repo": "sympy",
-            "stars": 14858
+            "stars": 14862
           }
         },
         {
@@ -1450,10 +1450,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T22:57:08Z",
+            "last_commit": "2026-08-14T07:17:30Z",
             "owner": "statsmodels",
             "repo": "statsmodels",
-            "stars": 11568
+            "stars": 11574
           }
         },
         {
@@ -1464,10 +1464,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T08:22:42Z",
+            "last_commit": "2026-08-13T09:01:11Z",
             "owner": "pymc-devs",
             "repo": "pymc",
-            "stars": 9705
+            "stars": 9709
           }
         },
         {
@@ -1481,7 +1481,7 @@
             "last_commit": "2023-01-21T20:19:13Z",
             "owner": "yhat",
             "repo": "ggpy",
-            "stars": 3688
+            "stars": 3687
           }
         },
         {
@@ -1523,7 +1523,7 @@
             "last_commit": "2016-12-02T16:39:01Z",
             "owner": "mining",
             "repo": "mining",
-            "stars": 1285
+            "stars": 1284
           }
         },
         {
@@ -2118,7 +2118,7 @@
             "last_commit": "2024-06-02T11:18:37Z",
             "owner": "mnielsen",
             "repo": "neural-networks-and-deep-learning",
-            "stars": 17868
+            "stars": 17869
           }
         },
         {
@@ -2409,7 +2409,7 @@
             "last_commit": "2023-05-28T19:18:59Z",
             "owner": "twitter",
             "repo": "scalding",
-            "stars": 3522
+            "stars": 3523
           }
         },
         {
@@ -2423,7 +2423,7 @@
             "last_commit": "2025-11-21T04:01:23Z",
             "owner": "twitter",
             "repo": "algebird",
-            "stars": 2297
+            "stars": 2298
           }
         },
         {
@@ -2574,7 +2574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T08:42:03.492Z",
+    "last_updated": "2026-08-14T08:36:05.093Z",
     "original_repository": "jobbole/awesome-machine-learning-cn",
     "original_repository_sha": "328b9c33ecb2827766e0a56dff810308efebdeb9",
     "enhanced_repository": "enhansome/enhansome-machine-learning-cn",
