@@ -68,7 +68,7 @@
             "last_commit": "2024-01-15T13:55:44Z",
             "owner": "sjwhitworth",
             "repo": "golearn",
-            "stars": 9437
+            "stars": 9438
           }
         },
         {
@@ -158,10 +158,10 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-08-14T07:34:27Z",
+            "last_commit": "2026-08-15T02:01:39Z",
             "owner": "apache",
             "repo": "spark",
-            "stars": 43871
+            "stars": 43819
           }
         },
         {
@@ -1099,7 +1099,7 @@
             "last_commit": "2024-08-21T09:23:45Z",
             "owner": "fxsjy",
             "repo": "jieba",
-            "stars": 35115
+            "stars": 35114
           }
         },
         {
@@ -1175,7 +1175,7 @@
             "last_commit": "2025-11-01T12:01:39Z",
             "owner": "piskvorky",
             "repo": "gensim",
-            "stars": 16480
+            "stars": 16479
           }
         },
         {
@@ -1217,7 +1217,7 @@
             "last_commit": "2023-12-19T18:37:18Z",
             "owner": "shogun-toolbox",
             "repo": "shogun",
-            "stars": 3079
+            "stars": 3080
           }
         },
         {
@@ -1284,7 +1284,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-03T12:55:26Z",
+            "last_commit": "2026-08-14T13:04:41Z",
             "owner": "nilearn",
             "repo": "nilearn",
             "stars": 1424
@@ -1408,10 +1408,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T08:19:06Z",
+            "last_commit": "2026-08-15T01:51:42Z",
             "owner": "bokeh",
             "repo": "bokeh",
-            "stars": 20429
+            "stars": 20431
           }
         },
         {
@@ -1425,7 +1425,7 @@
             "last_commit": "2024-02-13T08:02:51Z",
             "owner": "quantopian",
             "repo": "zipline",
-            "stars": 20034
+            "stars": 20036
           }
         },
         {
@@ -1436,10 +1436,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T17:58:56Z",
+            "last_commit": "2026-08-15T00:05:06Z",
             "owner": "sympy",
             "repo": "sympy",
-            "stars": 14862
+            "stars": 14867
           }
         },
         {
@@ -1450,7 +1450,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T07:17:30Z",
+            "last_commit": "2026-08-14T17:33:33Z",
             "owner": "statsmodels",
             "repo": "statsmodels",
             "stars": 11574
@@ -1467,7 +1467,7 @@
             "last_commit": "2026-08-13T09:01:11Z",
             "owner": "pymc-devs",
             "repo": "pymc",
-            "stars": 9709
+            "stars": 9710
           }
         },
         {
@@ -1613,7 +1613,7 @@
             "last_commit": "2025-04-15T17:15:54Z",
             "owner": "hyperopt",
             "repo": "hyperopt-sklearn",
-            "stars": 1649
+            "stars": 1648
           }
         },
         {
@@ -2118,7 +2118,7 @@
             "last_commit": "2024-06-02T11:18:37Z",
             "owner": "mnielsen",
             "repo": "neural-networks-and-deep-learning",
-            "stars": 17869
+            "stars": 17872
           }
         },
         {
@@ -2347,7 +2347,7 @@
             "last_commit": "2025-10-04T22:40:06Z",
             "owner": "scalanlp",
             "repo": "breeze",
-            "stars": 3454
+            "stars": 3455
           }
         },
         {
@@ -2574,7 +2574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T08:36:05.093Z",
+    "last_updated": "2026-08-15T07:41:37.459Z",
     "original_repository": "jobbole/awesome-machine-learning-cn",
     "original_repository_sha": "328b9c33ecb2827766e0a56dff810308efebdeb9",
     "enhanced_repository": "enhansome/enhansome-machine-learning-cn",
