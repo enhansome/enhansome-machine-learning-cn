@@ -158,10 +158,10 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-08-17T04:23:05Z",
+            "last_commit": "2026-08-18T06:58:07Z",
             "owner": "apache",
             "repo": "spark",
-            "stars": 43824
+            "stars": 43825
           }
         },
         {
@@ -228,7 +228,7 @@
             "last_commit": "2023-09-28T00:34:09Z",
             "owner": "benhmoore",
             "repo": "Knwl",
-            "stars": 5253
+            "stars": 5252
           }
         },
         {
@@ -424,7 +424,7 @@
           "repo_info": {
             "archived": false,
             "language": "Julia",
-            "last_commit": "2026-08-16T18:04:55Z",
+            "last_commit": "2026-08-17T19:44:58Z",
             "owner": "JuliaStats",
             "repo": "MixedModels.jl",
             "stars": 449
@@ -1099,7 +1099,7 @@
             "last_commit": "2024-08-21T09:23:45Z",
             "owner": "fxsjy",
             "repo": "jieba",
-            "stars": 35116
+            "stars": 35118
           }
         },
         {
@@ -1113,7 +1113,7 @@
             "last_commit": "2020-01-19T02:39:05Z",
             "owner": "isnowfy",
             "repo": "snownlp",
-            "stars": 6631
+            "stars": 6632
           }
         },
         {
@@ -1175,7 +1175,7 @@
             "last_commit": "2025-11-01T12:01:39Z",
             "owner": "piskvorky",
             "repo": "gensim",
-            "stars": 16480
+            "stars": 16478
           }
         },
         {
@@ -1189,7 +1189,7 @@
             "last_commit": "2026-08-05T13:05:22Z",
             "owner": "clips",
             "repo": "pattern",
-            "stars": 8859
+            "stars": 8860
           }
         },
         {
@@ -1231,7 +1231,7 @@
             "last_commit": "2024-06-27T17:24:50Z",
             "owner": "pybrain",
             "repo": "pybrain",
-            "stars": 2857
+            "stars": 2856
           }
         },
         {
@@ -1245,7 +1245,7 @@
             "last_commit": "2021-08-20T18:03:31Z",
             "owner": "lisa-lab",
             "repo": "pylearn2",
-            "stars": 2768
+            "stars": 2767
           }
         },
         {
@@ -1284,7 +1284,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T13:04:41Z",
+            "last_commit": "2026-08-18T07:19:11Z",
             "owner": "nilearn",
             "repo": "nilearn",
             "stars": 1423
@@ -1407,11 +1407,11 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-16T03:10:57Z",
+            "language": "Python",
+            "last_commit": "2026-08-18T05:25:46Z",
             "owner": "bokeh",
             "repo": "bokeh",
-            "stars": 20431
+            "stars": 20429
           }
         },
         {
@@ -1425,7 +1425,7 @@
             "last_commit": "2024-02-13T08:02:51Z",
             "owner": "quantopian",
             "repo": "zipline",
-            "stars": 20042
+            "stars": 20046
           }
         },
         {
@@ -1436,10 +1436,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T16:59:03Z",
+            "last_commit": "2026-08-17T17:38:55Z",
             "owner": "sympy",
             "repo": "sympy",
-            "stars": 14872
+            "stars": 14869
           }
         },
         {
@@ -1450,10 +1450,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T07:42:42Z",
+            "last_commit": "2026-08-18T07:21:30Z",
             "owner": "statsmodels",
             "repo": "statsmodels",
-            "stars": 11580
+            "stars": 11578
           }
         },
         {
@@ -1464,7 +1464,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T09:03:02Z",
+            "last_commit": "2026-08-17T23:18:21Z",
             "owner": "pymc-devs",
             "repo": "pymc",
             "stars": 9710
@@ -1571,7 +1571,7 @@
             "last_commit": "2024-10-24T02:01:47Z",
             "owner": "jvns",
             "repo": "pandas-cookbook",
-            "stars": 7105
+            "stars": 7106
           }
         },
         {
@@ -1599,7 +1599,7 @@
             "last_commit": "2023-11-26T15:54:59Z",
             "owner": "rasbt",
             "repo": "pattern_classification",
-            "stars": 4212
+            "stars": 4211
           }
         },
         {
@@ -2118,7 +2118,7 @@
             "last_commit": "2024-06-02T11:18:37Z",
             "owner": "mnielsen",
             "repo": "neural-networks-and-deep-learning",
-            "stars": 17876
+            "stars": 17879
           }
         },
         {
@@ -2395,7 +2395,7 @@
             "last_commit": "2021-01-09T10:30:58Z",
             "owner": "apache",
             "repo": "predictionio",
-            "stars": 12519
+            "stars": 12518
           }
         },
         {
@@ -2574,7 +2574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T07:58:30.172Z",
+    "last_updated": "2026-08-18T07:50:32.362Z",
     "original_repository": "jobbole/awesome-machine-learning-cn",
     "original_repository_sha": "328b9c33ecb2827766e0a56dff810308efebdeb9",
     "enhanced_repository": "enhansome/enhansome-machine-learning-cn",
