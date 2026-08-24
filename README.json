@@ -4,7 +4,23 @@
       "description": null,
       "items": [
         {
-          "children": [],
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CCV",
+              "description": "：基于C语言/提供缓存/核心的机器视觉库，新颖的机器视觉库。官网",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 912896,
+                "language": "C++",
+                "last_commit": "2026-08-24T05:19:05Z",
+                "owner": "liuliu",
+                "repo": "ccv",
+                "stars": 7242
+              }
+            }
+          ],
           "description": null,
           "node_type": "item",
           "repo_info": {
@@ -14,7 +30,7 @@
             "last_commit": "2026-08-21T10:11:51Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74137
+            "stars": 74141
           },
           "title": "计算机视觉"
         },
@@ -29,7 +45,7 @@
             "last_commit": "2026-08-21T10:11:51Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74137
+            "stars": 74141
           },
           "title": "通用机器学习"
         }
@@ -81,7 +97,7 @@
             "last_commit": "2026-08-21T10:11:51Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74137
+            "stars": 74141
           },
           "title": "自然语言处理"
         },
@@ -157,12 +173,28 @@
             "last_commit": "2026-08-21T10:11:51Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74137
+            "stars": 74141
           },
           "title": "通用机器学习"
         },
         {
-          "children": [],
+          "children": [
+            {
+              "node_type": "item",
+              "title": "go-graph：Go语言图形库。官网",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 658667,
+                "language": "Go",
+                "last_commit": "2015-11-07T04:58:42Z",
+                "owner": "StepLg",
+                "repo": "go-graph",
+                "stars": 95
+              }
+            }
+          ],
           "description": null,
           "node_type": "item",
           "repo_info": {
@@ -172,7 +204,7 @@
             "last_commit": "2026-08-21T10:11:51Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74137
+            "stars": 74141
           },
           "title": "数据分析/数据可视化"
         }
@@ -183,7 +215,23 @@
       "description": null,
       "items": [
         {
-          "children": [],
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Twitter Text Java：Java实现的推特文本处理库。官网",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 1133745,
+                "language": null,
+                "last_commit": "2014-12-13T16:43:09Z",
+                "owner": "twitter-archive",
+                "repo": "twitter-text-java",
+                "stars": 364
+              }
+            }
+          ],
           "description": null,
           "node_type": "item",
           "repo_info": {
@@ -193,7 +241,7 @@
             "last_commit": "2026-08-21T10:11:51Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74137
+            "stars": 74141
           },
           "title": "自然语言处理"
         },
@@ -224,7 +272,7 @@
             "last_commit": "2026-08-21T10:11:51Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74137
+            "stars": 74141
           },
           "title": "通用机器学习"
         },
@@ -239,7 +287,7 @@
                 "archived": false,
                 "id": 17165658,
                 "language": "Scala",
-                "last_commit": "2026-08-24T07:07:07Z",
+                "last_commit": "2026-08-24T09:08:09Z",
                 "owner": "apache",
                 "repo": "spark",
                 "stars": 43867
@@ -285,7 +333,7 @@
             "last_commit": "2026-08-21T10:11:51Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74137
+            "stars": 74141
           },
           "title": "数据分析/数据可视化"
         }
@@ -309,7 +357,7 @@
                 "last_commit": "2026-02-22T21:53:54Z",
                 "owner": "NaturalNode",
                 "repo": "natural",
-                "stars": 10879
+                "stars": 10880
               }
             },
             {
@@ -367,7 +415,7 @@
             "last_commit": "2026-08-21T10:11:51Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74137
+            "stars": 74141
           },
           "title": "自然语言处理"
         },
@@ -382,7 +430,7 @@
             "last_commit": "2026-08-21T10:11:51Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74137
+            "stars": 74141
           },
           "title": "数据分析/数据可视化"
         },
@@ -533,7 +581,7 @@
             "last_commit": "2026-08-21T10:11:51Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74137
+            "stars": 74141
           },
           "title": "通用机器学习"
         }
@@ -855,7 +903,7 @@
             "last_commit": "2026-08-21T10:11:51Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74137
+            "stars": 74141
           },
           "title": "通用机器学习"
         },
@@ -901,7 +949,7 @@
             "last_commit": "2026-08-21T10:11:51Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74137
+            "stars": 74141
           },
           "title": "自然语言处理"
         },
@@ -1097,7 +1145,7 @@
             "last_commit": "2026-08-21T10:11:51Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74137
+            "stars": 74141
           },
           "title": "数据分析/数据可视化"
         },
@@ -1158,7 +1206,7 @@
             "last_commit": "2026-08-21T10:11:51Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74137
+            "stars": 74141
           },
           "title": "杂项/演示文稿"
         }
@@ -1169,7 +1217,360 @@
       "description": null,
       "items": [
         {
-          "children": [],
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Torch7",
+              "description": "。",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "nn：Torch可用的神经网络包。官网",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 13677447,
+                    "language": "Lua",
+                    "last_commit": "2021-01-12T19:56:45Z",
+                    "owner": "torch",
+                    "repo": "nn",
+                    "stars": 1358
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "OverFeat：当前最高水准的通用密度特征提取器。官网",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 16191061,
+                    "language": "C",
+                    "last_commit": "2014-08-12T17:38:21Z",
+                    "owner": "sermanet",
+                    "repo": "OverFeat",
+                    "stars": 602
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "cutorch：torch的CUDA后端实现。官网",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 13677478,
+                    "language": "Cuda",
+                    "last_commit": "2017-09-11T21:54:52Z",
+                    "owner": "torch",
+                    "repo": "cutorch",
+                    "stars": 340
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "nngraph：为nn库提供图形计算能力。官网",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 9166958,
+                    "language": "Lua",
+                    "last_commit": "2017-08-01T14:08:52Z",
+                    "owner": "torch",
+                    "repo": "nngraph",
+                    "stars": 299
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "cunn：torch的CUDA神经网络实现。官网",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 13677499,
+                    "language": "Cuda",
+                    "last_commit": "2019-08-27T00:44:54Z",
+                    "owner": "torch",
+                    "repo": "cunn",
+                    "stars": 213
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "optim：Torch可用的优化算法库，包括 SGD, Adagrad, 共轭梯度算法, LBFGS, RProp等算法。官网",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 11314007,
+                    "language": "Lua",
+                    "last_commit": "2017-11-27T21:55:36Z",
+                    "owner": "torch",
+                    "repo": "optim",
+                    "stars": 196
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "manifold：操作流形的包。官网",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 12687998,
+                    "language": "Lua",
+                    "last_commit": "2017-07-03T13:23:29Z",
+                    "owner": "clementfarabet",
+                    "repo": "manifold",
+                    "stars": 143
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "nnx：一个不稳定实验性的包，扩展Torch内置的nn库。官网",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 2002672,
+                    "language": "Lua",
+                    "last_commit": "2017-05-30T14:18:58Z",
+                    "owner": "clementfarabet",
+                    "repo": "lua---nnx",
+                    "stars": 97
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "unsup：Torch下的非监督学习包提供的模块与nn（LinearPsd、ConvPsd、AutoEncoder、...）及独立算法（k-means、PCA）等兼容。官网",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 2156857,
+                    "language": "Lua",
+                    "last_commit": "2017-05-23T12:01:42Z",
+                    "owner": "koraykv",
+                    "repo": "unsup",
+                    "stars": 86
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "svm：Torch的支持向量机库。官网",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 6031100,
+                    "language": "C++",
+                    "last_commit": "2016-05-31T15:11:49Z",
+                    "owner": "koraykv",
+                    "repo": "torch-svm",
+                    "stars": 44
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "graph：供Torch使用的图形包。官网",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 6864357,
+                    "language": "Lua",
+                    "last_commit": "2016-11-24T01:17:23Z",
+                    "owner": "torch",
+                    "repo": "graph",
+                    "stars": 38
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "imgraph：torch的图像/图形库，提供从图像创建图形、分割、建立树、又转化回图像的例程。官网",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 2045624,
+                    "language": "C",
+                    "last_commit": "2017-10-27T17:14:31Z",
+                    "owner": "clementfarabet",
+                    "repo": "lua---imgraph",
+                    "stars": 23
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "videograph：torch的视频/图形库，提供从视频创建图形、分割、建立树、又转化回视频的例程。官网",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 4620798,
+                    "language": "C",
+                    "last_commit": "2013-07-04T18:05:21Z",
+                    "owner": "clementfarabet",
+                    "repo": "videograph",
+                    "stars": 10
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "fex：torch的特征提取包，提供SIFT和dSIFT模块。官网",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 3516768,
+                    "language": "Lua",
+                    "last_commit": "2014-01-31T14:27:03Z",
+                    "owner": "koraykv",
+                    "repo": "fex",
+                    "stars": 10
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "OpenGM：OpenGM是C++编写的图形建模及推断库，该binding可以用Lua以简单的方式描述图形，然后用OpenGM优化。官网",
+                  "description": "。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 2442421,
+                    "language": "C++",
+                    "last_commit": "2012-03-02T02:43:50Z",
+                    "owner": "clementfarabet",
+                    "repo": "lua---opengm",
+                    "stars": 8
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "saliency：积分图像的代码和工具，用来从快速积分直方图中寻找兴趣点。官网",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 4918834,
+                    "language": "Lua",
+                    "last_commit": "2013-12-13T19:34:06Z",
+                    "owner": "marcoscoffier",
+                    "repo": "torch-saliency",
+                    "stars": 7
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "kernel smoothing：KNN、核权平均以及局部线性回归平滑器。官网",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 5184222,
+                    "language": "Lua",
+                    "last_commit": "2012-10-26T16:00:06Z",
+                    "owner": "rlowrance",
+                    "repo": "kernel-smoothers",
+                    "stars": 5
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "stitch：使用hugin拼合图像并将其生成视频序列。官网",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 3223686,
+                    "language": "Lua",
+                    "last_commit": "2012-05-06T09:00:44Z",
+                    "owner": "marcoscoffier",
+                    "repo": "lua---stitch",
+                    "stars": 4
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "LuaSHKit：将局部敏感哈希库SHKit包装成lua可用形式。官网",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 18337270,
+                    "language": "C++",
+                    "last_commit": "2014-05-21T21:04:54Z",
+                    "owner": "ocallaco",
+                    "repo": "LuaSHkit",
+                    "stars": 3
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "sfm：运动场景束调整/结构包。官网",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 3306737,
+                    "language": "C",
+                    "last_commit": "2012-02-15T18:26:53Z",
+                    "owner": "marcoscoffier",
+                    "repo": "lua---sfm",
+                    "stars": 3
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "lbfgs：将liblbfgs包装为FFI接口。官网",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 8643646,
+                    "language": "Lua",
+                    "last_commit": "2013-03-08T14:10:56Z",
+                    "owner": "clementfarabet",
+                    "repo": "lbfgs",
+                    "stars": 2
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "vowpalwabbit：老版的vowpalwabbit对torch的接口。官网",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 2683435,
+                    "language": "C++",
+                    "last_commit": "2012-05-09T18:50:58Z",
+                    "owner": "clementfarabet",
+                    "repo": "vowpal_wabbit",
+                    "stars": 2
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "sphagetti：MichaelMathieu为torch7编写的稀疏线性模块。官网",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 10674911,
+                    "language": "Lua",
+                    "last_commit": "2013-08-05T17:44:46Z",
+                    "owner": "MichaelMathieu",
+                    "repo": "lua---spaghetti",
+                    "stars": 2
+                  }
+                }
+              ]
+            }
+          ],
           "description": null,
           "node_type": "item",
           "repo_info": {
@@ -1179,7 +1580,7 @@
             "last_commit": "2026-08-21T10:11:51Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74137
+            "stars": 74141
           },
           "title": "通用机器学习"
         },
@@ -1255,7 +1656,7 @@
             "last_commit": "2026-08-21T10:11:51Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74137
+            "stars": 74141
           },
           "title": "演示及脚本"
         }
@@ -1276,7 +1677,7 @@
             "last_commit": "2026-08-21T10:11:51Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74137
+            "stars": 74141
           },
           "title": "计算机视觉"
         },
@@ -1291,7 +1692,7 @@
             "last_commit": "2026-08-21T10:11:51Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74137
+            "stars": 74141
           },
           "title": "自然语言处理"
         },
@@ -1337,7 +1738,7 @@
             "last_commit": "2026-08-21T10:11:51Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74137
+            "stars": 74141
           },
           "title": "通用机器学习"
         },
@@ -1352,7 +1753,7 @@
             "last_commit": "2026-08-21T10:11:51Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74137
+            "stars": 74141
           },
           "title": "数据分析/数据可视化"
         }
@@ -1373,12 +1774,28 @@
             "last_commit": "2026-08-21T10:11:51Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74137
+            "stars": 74141
           },
           "title": "计算机视觉"
         },
         {
-          "children": [],
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Stanford.NLP for .NET：斯坦福大学NLP包在.NET上的完全移植，还可作为NuGet包进行预编译。官网",
+              "description": "。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8016374,
+                "language": "C#",
+                "last_commit": "2024-03-22T21:31:12Z",
+                "owner": "sergey-tihon",
+                "repo": "Stanford.NLP.NET",
+                "stars": 608
+              }
+            }
+          ],
           "description": null,
           "node_type": "item",
           "repo_info": {
@@ -1388,12 +1805,28 @@
             "last_commit": "2026-08-21T10:11:51Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74137
+            "stars": 74141
           },
           "title": "自然语言处理"
         },
         {
-          "children": [],
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Vulpes：F#语言实现的Deep belief和深度学习包，它在Alea.cuBase下利用CUDA GPU来执行。官网",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 15949792,
+                "language": "JavaScript",
+                "last_commit": "2017-08-14T12:37:15Z",
+                "owner": "fsprojects-archive",
+                "repo": "zzarchive-Vulpes",
+                "stars": 116
+              }
+            }
+          ],
           "description": null,
           "node_type": "item",
           "repo_info": {
@@ -1403,7 +1836,7 @@
             "last_commit": "2026-08-21T10:11:51Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74137
+            "stars": 74141
           },
           "title": "通用机器学习"
         },
@@ -1418,7 +1851,7 @@
             "last_commit": "2026-08-21T10:11:51Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74137
+            "stars": 74141
           },
           "title": "数据分析/数据可视化"
         }
@@ -1442,7 +1875,7 @@
                 "last_commit": "2024-08-21T09:23:45Z",
                 "owner": "fxsjy",
                 "repo": "jieba",
-                "stars": 35126
+                "stars": 35125
               }
             },
             {
@@ -1515,7 +1948,7 @@
             "last_commit": "2026-08-21T10:11:51Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74137
+            "stars": 74141
           },
           "title": "自然语言处理"
         },
@@ -1578,7 +2011,7 @@
                 "last_commit": "2023-12-19T18:37:18Z",
                 "owner": "shogun-toolbox",
                 "repo": "shogun",
-                "stars": 3080
+                "stars": 3079
               }
             },
             {
@@ -1653,7 +2086,7 @@
                 "last_commit": "2026-08-24T07:19:54Z",
                 "owner": "nilearn",
                 "repo": "nilearn",
-                "stars": 1425
+                "stars": 1424
               }
             },
             {
@@ -1771,7 +2204,7 @@
             "last_commit": "2026-08-21T10:11:51Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74137
+            "stars": 74141
           },
           "title": "通用机器学习"
         },
@@ -1786,7 +2219,7 @@
                 "archived": false,
                 "id": 3834332,
                 "language": "Python",
-                "last_commit": "2026-08-24T03:17:24Z",
+                "last_commit": "2026-08-24T09:00:46Z",
                 "owner": "bokeh",
                 "repo": "bokeh",
                 "stars": 20432
@@ -1831,10 +2264,10 @@
                 "archived": false,
                 "id": 1885237,
                 "language": "Python",
-                "last_commit": "2026-08-24T05:58:18Z",
+                "last_commit": "2026-08-24T13:58:54Z",
                 "owner": "statsmodels",
                 "repo": "statsmodels",
-                "stars": 11588
+                "stars": 11589
               }
             },
             {
@@ -1952,7 +2385,7 @@
             "last_commit": "2026-08-21T10:11:51Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74137
+            "stars": 74141
           },
           "title": "数据分析/数据可视化"
         },
@@ -2238,7 +2671,7 @@
             "last_commit": "2026-08-21T10:11:51Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74137
+            "stars": 74141
           },
           "title": "杂项脚本/iPython笔记/代码库"
         },
@@ -2479,7 +2912,7 @@
             "last_commit": "2026-08-21T10:11:51Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74137
+            "stars": 74141
           },
           "title": "Kaggle竞赛源代码"
         }
@@ -2561,7 +2994,7 @@
             "last_commit": "2026-08-21T10:11:51Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74137
+            "stars": 74141
           },
           "title": "自然语言处理"
         },
@@ -2579,7 +3012,7 @@
                 "last_commit": "2024-06-02T11:18:37Z",
                 "owner": "mnielsen",
                 "repo": "neural-networks-and-deep-learning",
-                "stars": 17882
+                "stars": 17883
               }
             },
             {
@@ -2652,7 +3085,7 @@
             "last_commit": "2026-08-21T10:11:51Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74137
+            "stars": 74141
           },
           "title": "通用机器学习"
         },
@@ -2758,12 +3191,28 @@
             "last_commit": "2026-08-21T10:11:51Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74137
+            "stars": 74141
           },
           "title": "数据分析/数据可视化"
         },
         {
-          "children": [],
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Big Data For Chimps：大数据处理严肃而有趣的指南书。官网",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3744625,
+                "language": "Ruby",
+                "last_commit": "2015-06-15T17:17:02Z",
+                "owner": "infochimps-labs",
+                "repo": "big_data_for_chimps",
+                "stars": 169
+              }
+            }
+          ],
           "description": null,
           "node_type": "item",
           "repo_info": {
@@ -2773,7 +3222,7 @@
             "last_commit": "2026-08-21T10:11:51Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74137
+            "stars": 74141
           },
           "title": "Misc 杂项"
         }
@@ -2840,7 +3289,7 @@
             "last_commit": "2026-08-21T10:11:51Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74137
+            "stars": 74141
           },
           "title": "通用机器学习"
         }
@@ -2907,7 +3356,7 @@
             "last_commit": "2026-08-21T10:11:51Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74137
+            "stars": 74141
           },
           "title": "自然语言处理"
         },
@@ -3028,7 +3477,7 @@
             "last_commit": "2026-08-21T10:11:51Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74137
+            "stars": 74141
           },
           "title": "数据分析/数据可视化"
         },
@@ -3119,7 +3568,7 @@
             "last_commit": "2026-08-21T10:11:51Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74137
+            "stars": 74141
           },
           "title": "通用机器学习"
         }
@@ -3128,7 +3577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T08:03:00.288Z",
+    "last_updated": "2026-08-24T14:02:02.417Z",
     "original_repository": "jobbole/awesome-machine-learning-cn",
     "original_repository_id": 45461779,
     "original_repository_sha": "328b9c33ecb2827766e0a56dff810308efebdeb9",
