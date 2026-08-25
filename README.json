@@ -287,10 +287,10 @@
                 "archived": false,
                 "id": 17165658,
                 "language": "Scala",
-                "last_commit": "2026-08-25T05:00:30Z",
+                "last_commit": "2026-08-25T07:34:02Z",
                 "owner": "apache",
                 "repo": "spark",
-                "stars": 43872
+                "stars": 43873
               }
             },
             {
@@ -1875,7 +1875,7 @@
                 "last_commit": "2024-08-21T09:23:45Z",
                 "owner": "fxsjy",
                 "repo": "jieba",
-                "stars": 35127
+                "stars": 35128
               }
             },
             {
@@ -2222,7 +2222,7 @@
                 "last_commit": "2026-08-25T05:32:10Z",
                 "owner": "bokeh",
                 "repo": "bokeh",
-                "stars": 20433
+                "stars": 20434
               }
             },
             {
@@ -2237,7 +2237,7 @@
                 "last_commit": "2024-02-13T08:02:51Z",
                 "owner": "quantopian",
                 "repo": "zipline",
-                "stars": 20061
+                "stars": 20062
               }
             },
             {
@@ -2252,7 +2252,7 @@
                 "last_commit": "2026-08-24T17:17:49Z",
                 "owner": "sympy",
                 "repo": "sympy",
-                "stars": 14889
+                "stars": 14890
               }
             },
             {
@@ -2264,7 +2264,7 @@
                 "archived": false,
                 "id": 1885237,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:55:05Z",
+                "last_commit": "2026-08-25T07:37:20Z",
                 "owner": "statsmodels",
                 "repo": "statsmodels",
                 "stars": 11589
@@ -3577,7 +3577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:50:53.879Z",
+    "last_updated": "2026-08-25T07:55:38.060Z",
     "original_repository": "jobbole/awesome-machine-learning-cn",
     "original_repository_id": 45461779,
     "original_repository_sha": "328b9c33ecb2827766e0a56dff810308efebdeb9",

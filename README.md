@@ -118,7 +118,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 #### [](https://github.com/josephmisiti/awesome-machine-learning/blob/master/README.md#data-analysis--data-visualization-1) ⭐ 74,148 | 🐛 26 | 🌐 Python | 📅 2026-08-24数据分析/数据可视化
 
-* Spark：快速通用的大规模数据处理引擎。[官网](https://github.com/apache/spark) ⭐ 43,872 | 🐛 473 | 🌐 Scala | 📅 2026-08-25
+* Spark：快速通用的大规模数据处理引擎。[官网](https://github.com/apache/spark) ⭐ 43,873 | 🐛 475 | 🌐 Scala | 📅 2026-08-25
 * Hadoop：大数据分析平台。[官网](https://github.com/apache/hadoop-mapreduce) ⚠️ Archived
 * Impala：为Hadoop实现实时查询。[官网](https://github.com/cloudera/impala) ⭐ 34 | 🐛 28 | 🌐 C++ | 📅 2022-12-27
 
@@ -336,7 +336,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 #### [](https://github.com/josephmisiti/awesome-machine-learning/blob/master/README.md#natural-language-processing-5) ⭐ 74,148 | 🐛 26 | 🌐 Python | 📅 2026-08-24自然语言处理
 
-* jieba：中文断词工具。[官网](https://github.com/fxsjy/jieba#jieba-1) ⭐ 35,127 | 🐛 700 | 🌐 Python | 📅 2024-08-21
+* jieba：中文断词工具。[官网](https://github.com/fxsjy/jieba#jieba-1) ⭐ 35,128 | 🐛 700 | 🌐 Python | 📅 2024-08-21
 * SnowNLP：中文文本处理库。[官网](https://github.com/isnowfy/snownlp) ⭐ 6,633 | 🐛 44 | 🌐 Python | 📅 2020-01-19
 * genius：基于条件随机域的中文断词库。[官网](https://github.com/duanhongyi/genius) ⭐ 234 | 🐛 0 | 🌐 Python | 📅 2018-12-19
 * nut：自然语言理解工具包。[官网](https://github.com/pprett/nut) ⭐ 119 | 🐛 1 | 🌐 C | 📅 2014-05-07
@@ -355,7 +355,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * Pylearn2：基于Theano的机器学习库。[官网](https://github.com/lisa-lab/pylearn2) ⭐ 2,767 | 🐛 201 | 🌐 Python | 📅 2021-08-20
 * thinking bayes：关于贝叶斯分析的书籍。[官网](https://github.com/AllenDowney/ThinkBayes) ⭐ 1,702 | 🐛 12 | 🌐 TeX | 📅 2021-03-12
 * python-recsys：Python实现的推荐系统。[官网](https://github.com/ocelma/python-recsys) ⭐ 1,480 | 🐛 9 | 🌐 Python | 📅 2020-12-29
-* nilearn：Python实现的神经影像学机器学习库。[官网](https://github.com/nilearn/nilearn) ⭐ 1,424 | 🐛 297 | 🌐 Python | 📅 2026-08-24
+* nilearn：Python实现的神经影像学机器学习库。[官网](https://github.com/nilearn/nilearn) ⭐ 1,424 | 🐛 298 | 🌐 Python | 📅 2026-08-24
 * Crab：可扩展的、快速推荐引擎。[官网](https://github.com/muricoca/crab) ⭐ 1,175 | 🐛 46 | 🌐 Python | 📅 2020-12-30
 * hebel：Python编写的使用GPU加速的深度学习库。[官网](https://github.com/hannes-brt/hebel) ⭐ 1,169 | 🐛 6 | 🌐 Python | 📅 2020-12-29
 * Restricted Boltzmann Machines：Python实现的受限波尔兹曼机。[官网](https://github.com/echen/restricted-boltzmann-machines) ⭐ 970 | 🐛 6 | 🌐 Python | 📅 2020-04-01
@@ -372,10 +372,10 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 #### [](https://github.com/josephmisiti/awesome-machine-learning/blob/master/README.md#data-analysis--data-visualization-5) ⭐ 74,148 | 🐛 26 | 🌐 Python | 📅 2026-08-24数据分析/数据可视化
 
-* bokeh：Python的交互式Web绘图库。[官网](https://github.com/ContinuumIO/bokeh) ⭐ 20,433 | 🐛 847 | 🌐 Python | 📅 2026-08-25
-* zipline：Python的算法交易库。[官网](https://github.com/quantopian/zipline) ⭐ 20,061 | 🐛 370 | 🌐 Python | 📅 2024-02-13
-* SymPy：符号数学Python库。[官网](https://github.com/sympy/sympy) ⭐ 14,889 | 🐛 5,972 | 🌐 Python | 📅 2026-08-24
-* statsmodels：Python的统计建模及计量经济学库。[官网](https://github.com/statsmodels/statsmodels) ⭐ 11,589 | 🐛 2,817 | 🌐 Python | 📅 2026-08-24
+* bokeh：Python的交互式Web绘图库。[官网](https://github.com/ContinuumIO/bokeh) ⭐ 20,434 | 🐛 847 | 🌐 Python | 📅 2026-08-25
+* zipline：Python的算法交易库。[官网](https://github.com/quantopian/zipline) ⭐ 20,062 | 🐛 370 | 🌐 Python | 📅 2024-02-13
+* SymPy：符号数学Python库。[官网](https://github.com/sympy/sympy) ⭐ 14,890 | 🐛 5,972 | 🌐 Python | 📅 2026-08-24
+* statsmodels：Python的统计建模及计量经济学库。[官网](https://github.com/statsmodels/statsmodels) ⭐ 11,589 | 🐛 2,816 | 🌐 Python | 📅 2026-08-25
 * [PyMC](http://hao.importnew.com/pymc/)：MCMC采样工具包。[官网](https://github.com/pymc-devs/pymc) ⭐ 9,721 | 🐛 481 | 🌐 Python | 📅 2026-08-24
 * ggplot：和R语言里的ggplot2提供同样的API。[官网](https://github.com/yhat/ggplot) ⚠️ Archived
 * vincent：将Python数据结构转换为Vega可视化语法。[官网](https://github.com/wrobstory/vincent) ⚠️ Archived
