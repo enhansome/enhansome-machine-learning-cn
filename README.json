@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 912896,
                 "language": "C++",
-                "last_commit": "2026-08-24T19:08:14Z",
+                "last_commit": "2026-08-26T05:51:58Z",
                 "owner": "liuliu",
                 "repo": "ccv",
-                "stars": 7241
+                "stars": 7242
               }
             }
           ],
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-24T19:57:48Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74148
+            "stars": 74159
           },
           "title": "计算机视觉"
         },
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-24T19:57:48Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74148
+            "stars": 74159
           },
           "title": "通用机器学习"
         }
@@ -97,7 +97,7 @@
             "last_commit": "2026-08-24T19:57:48Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74148
+            "stars": 74159
           },
           "title": "自然语言处理"
         },
@@ -173,7 +173,7 @@
             "last_commit": "2026-08-24T19:57:48Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74148
+            "stars": 74159
           },
           "title": "通用机器学习"
         },
@@ -204,7 +204,7 @@
             "last_commit": "2026-08-24T19:57:48Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74148
+            "stars": 74159
           },
           "title": "数据分析/数据可视化"
         }
@@ -241,7 +241,7 @@
             "last_commit": "2026-08-24T19:57:48Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74148
+            "stars": 74159
           },
           "title": "自然语言处理"
         },
@@ -272,7 +272,7 @@
             "last_commit": "2026-08-24T19:57:48Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74148
+            "stars": 74159
           },
           "title": "通用机器学习"
         },
@@ -287,10 +287,10 @@
                 "archived": false,
                 "id": 17165658,
                 "language": "Scala",
-                "last_commit": "2026-08-25T07:34:02Z",
+                "last_commit": "2026-08-26T07:50:31Z",
                 "owner": "apache",
                 "repo": "spark",
-                "stars": 43873
+                "stars": 43878
               }
             },
             {
@@ -333,7 +333,7 @@
             "last_commit": "2026-08-24T19:57:48Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74148
+            "stars": 74159
           },
           "title": "数据分析/数据可视化"
         }
@@ -357,7 +357,7 @@
                 "last_commit": "2026-02-22T21:53:54Z",
                 "owner": "NaturalNode",
                 "repo": "natural",
-                "stars": 10881
+                "stars": 10880
               }
             },
             {
@@ -415,7 +415,7 @@
             "last_commit": "2026-08-24T19:57:48Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74148
+            "stars": 74159
           },
           "title": "自然语言处理"
         },
@@ -430,7 +430,7 @@
             "last_commit": "2026-08-24T19:57:48Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74148
+            "stars": 74159
           },
           "title": "数据分析/数据可视化"
         },
@@ -448,7 +448,7 @@
                 "last_commit": "2020-09-03T20:20:29Z",
                 "owner": "harthur",
                 "repo": "brain",
-                "stars": 7989
+                "stars": 7988
               }
             },
             {
@@ -581,7 +581,7 @@
             "last_commit": "2026-08-24T19:57:48Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74148
+            "stars": 74159
           },
           "title": "通用机器学习"
         }
@@ -903,7 +903,7 @@
             "last_commit": "2026-08-24T19:57:48Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74148
+            "stars": 74159
           },
           "title": "通用机器学习"
         },
@@ -949,7 +949,7 @@
             "last_commit": "2026-08-24T19:57:48Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74148
+            "stars": 74159
           },
           "title": "自然语言处理"
         },
@@ -982,7 +982,7 @@
                 "last_commit": "2026-08-23T06:08:21Z",
                 "owner": "JuliaData",
                 "repo": "DataFrames.jl",
-                "stars": 1830
+                "stars": 1831
               }
             },
             {
@@ -1145,7 +1145,7 @@
             "last_commit": "2026-08-24T19:57:48Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74148
+            "stars": 74159
           },
           "title": "数据分析/数据可视化"
         },
@@ -1206,7 +1206,7 @@
             "last_commit": "2026-08-24T19:57:48Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74148
+            "stars": 74159
           },
           "title": "杂项/演示文稿"
         }
@@ -1310,7 +1310,7 @@
                     "last_commit": "2017-11-27T21:55:36Z",
                     "owner": "torch",
                     "repo": "optim",
-                    "stars": 196
+                    "stars": 197
                   }
                 },
                 {
@@ -1580,7 +1580,7 @@
             "last_commit": "2026-08-24T19:57:48Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74148
+            "stars": 74159
           },
           "title": "通用机器学习"
         },
@@ -1656,7 +1656,7 @@
             "last_commit": "2026-08-24T19:57:48Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74148
+            "stars": 74159
           },
           "title": "演示及脚本"
         }
@@ -1677,7 +1677,7 @@
             "last_commit": "2026-08-24T19:57:48Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74148
+            "stars": 74159
           },
           "title": "计算机视觉"
         },
@@ -1692,7 +1692,7 @@
             "last_commit": "2026-08-24T19:57:48Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74148
+            "stars": 74159
           },
           "title": "自然语言处理"
         },
@@ -1738,7 +1738,7 @@
             "last_commit": "2026-08-24T19:57:48Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74148
+            "stars": 74159
           },
           "title": "通用机器学习"
         },
@@ -1753,7 +1753,7 @@
             "last_commit": "2026-08-24T19:57:48Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74148
+            "stars": 74159
           },
           "title": "数据分析/数据可视化"
         }
@@ -1774,7 +1774,7 @@
             "last_commit": "2026-08-24T19:57:48Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74148
+            "stars": 74159
           },
           "title": "计算机视觉"
         },
@@ -1805,7 +1805,7 @@
             "last_commit": "2026-08-24T19:57:48Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74148
+            "stars": 74159
           },
           "title": "自然语言处理"
         },
@@ -1836,7 +1836,7 @@
             "last_commit": "2026-08-24T19:57:48Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74148
+            "stars": 74159
           },
           "title": "通用机器学习"
         },
@@ -1851,7 +1851,7 @@
             "last_commit": "2026-08-24T19:57:48Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74148
+            "stars": 74159
           },
           "title": "数据分析/数据可视化"
         }
@@ -1875,7 +1875,7 @@
                 "last_commit": "2024-08-21T09:23:45Z",
                 "owner": "fxsjy",
                 "repo": "jieba",
-                "stars": 35128
+                "stars": 35130
               }
             },
             {
@@ -1948,7 +1948,7 @@
             "last_commit": "2026-08-24T19:57:48Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74148
+            "stars": 74159
           },
           "title": "自然语言处理"
         },
@@ -1996,7 +1996,7 @@
                 "last_commit": "2024-12-03T17:50:20Z",
                 "owner": "numenta",
                 "repo": "nupic-legacy",
-                "stars": 6351
+                "stars": 6350
               }
             },
             {
@@ -2083,10 +2083,10 @@
                 "archived": false,
                 "id": 1235740,
                 "language": "Python",
-                "last_commit": "2026-08-24T17:13:53Z",
+                "last_commit": "2026-08-25T13:53:05Z",
                 "owner": "nilearn",
                 "repo": "nilearn",
-                "stars": 1424
+                "stars": 1425
               }
             },
             {
@@ -2146,7 +2146,7 @@
                 "last_commit": "2021-08-28T05:22:16Z",
                 "owner": "perone",
                 "repo": "Pyevolve",
-                "stars": 316
+                "stars": 317
               }
             },
             {
@@ -2204,7 +2204,7 @@
             "last_commit": "2026-08-24T19:57:48Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74148
+            "stars": 74159
           },
           "title": "通用机器学习"
         },
@@ -2219,10 +2219,10 @@
                 "archived": false,
                 "id": 3834332,
                 "language": "Python",
-                "last_commit": "2026-08-25T05:32:10Z",
+                "last_commit": "2026-08-25T22:05:09Z",
                 "owner": "bokeh",
                 "repo": "bokeh",
-                "stars": 20434
+                "stars": 20435
               }
             },
             {
@@ -2237,7 +2237,7 @@
                 "last_commit": "2024-02-13T08:02:51Z",
                 "owner": "quantopian",
                 "repo": "zipline",
-                "stars": 20062
+                "stars": 20067
               }
             },
             {
@@ -2249,10 +2249,10 @@
                 "archived": false,
                 "id": 640534,
                 "language": "Python",
-                "last_commit": "2026-08-24T17:17:49Z",
+                "last_commit": "2026-08-25T17:42:57Z",
                 "owner": "sympy",
                 "repo": "sympy",
-                "stars": 14890
+                "stars": 14891
               }
             },
             {
@@ -2264,10 +2264,10 @@
                 "archived": false,
                 "id": 1885237,
                 "language": "Python",
-                "last_commit": "2026-08-25T07:37:20Z",
+                "last_commit": "2026-08-26T06:20:00Z",
                 "owner": "statsmodels",
                 "repo": "statsmodels",
-                "stars": 11589
+                "stars": 11592
               }
             },
             {
@@ -2282,7 +2282,7 @@
                 "last_commit": "2026-08-24T17:30:00Z",
                 "owner": "pymc-devs",
                 "repo": "pymc",
-                "stars": 9721
+                "stars": 9722
               }
             },
             {
@@ -2385,7 +2385,7 @@
             "last_commit": "2026-08-24T19:57:48Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74148
+            "stars": 74159
           },
           "title": "数据分析/数据可视化"
         },
@@ -2403,7 +2403,7 @@
                 "last_commit": "2024-10-24T02:01:47Z",
                 "owner": "jvns",
                 "repo": "pandas-cookbook",
-                "stars": 7105
+                "stars": 7107
               }
             },
             {
@@ -2418,7 +2418,7 @@
                 "last_commit": "2024-12-03T17:50:20Z",
                 "owner": "numenta",
                 "repo": "nupic-legacy",
-                "stars": 6351
+                "stars": 6350
               }
             },
             {
@@ -2671,7 +2671,7 @@
             "last_commit": "2026-08-24T19:57:48Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74148
+            "stars": 74159
           },
           "title": "杂项脚本/iPython笔记/代码库"
         },
@@ -2912,7 +2912,7 @@
             "last_commit": "2026-08-24T19:57:48Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74148
+            "stars": 74159
           },
           "title": "Kaggle竞赛源代码"
         }
@@ -2994,7 +2994,7 @@
             "last_commit": "2026-08-24T19:57:48Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74148
+            "stars": 74159
           },
           "title": "自然语言处理"
         },
@@ -3012,7 +3012,7 @@
                 "last_commit": "2024-06-02T11:18:37Z",
                 "owner": "mnielsen",
                 "repo": "neural-networks-and-deep-learning",
-                "stars": 17883
+                "stars": 17887
               }
             },
             {
@@ -3085,7 +3085,7 @@
             "last_commit": "2026-08-24T19:57:48Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74148
+            "stars": 74159
           },
           "title": "通用机器学习"
         },
@@ -3191,7 +3191,7 @@
             "last_commit": "2026-08-24T19:57:48Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74148
+            "stars": 74159
           },
           "title": "数据分析/数据可视化"
         },
@@ -3222,7 +3222,7 @@
             "last_commit": "2026-08-24T19:57:48Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74148
+            "stars": 74159
           },
           "title": "Misc 杂项"
         }
@@ -3289,7 +3289,7 @@
             "last_commit": "2026-08-24T19:57:48Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74148
+            "stars": 74159
           },
           "title": "通用机器学习"
         }
@@ -3356,7 +3356,7 @@
             "last_commit": "2026-08-24T19:57:48Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74148
+            "stars": 74159
           },
           "title": "自然语言处理"
         },
@@ -3477,7 +3477,7 @@
             "last_commit": "2026-08-24T19:57:48Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74148
+            "stars": 74159
           },
           "title": "数据分析/数据可视化"
         },
@@ -3568,7 +3568,7 @@
             "last_commit": "2026-08-24T19:57:48Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74148
+            "stars": 74159
           },
           "title": "通用机器学习"
         }
@@ -3577,7 +3577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T07:55:38.060Z",
+    "last_updated": "2026-08-26T07:57:53.308Z",
     "original_repository": "jobbole/awesome-machine-learning-cn",
     "original_repository_id": 45461779,
     "original_repository_sha": "328b9c33ecb2827766e0a56dff810308efebdeb9",
