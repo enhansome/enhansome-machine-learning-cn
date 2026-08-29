@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library",
+                "homepage": "http://libccv.org",
                 "id": 912896,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-26T05:51:58Z",
+                "open_issues": 80,
                 "owner": "liuliu",
                 "repo": "ccv",
-                "stars": 7242
+                "stars": 7242,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             }
@@ -26,12 +31,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+            "homepage": null,
             "id": 21872392,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T15:29:10Z",
+            "open_issues": 29,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74199
+            "stars": 74202,
+            "topics": []
           },
           "title": "计算机视觉",
           "first_seen": "2026-08-28T19:24:46.044Z"
@@ -42,12 +52,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+            "homepage": null,
             "id": 21872392,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T15:29:10Z",
+            "open_issues": 29,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74199
+            "stars": 74202,
+            "topics": []
           },
           "title": "通用机器学习",
           "first_seen": "2026-08-28T19:24:46.044Z"
@@ -67,12 +82,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A native Go clean room implementation of the Porter Stemming algorithm.",
+                "homepage": "https://godoc.org/github.com/reiver/go-porterstemmer",
                 "id": 10439470,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2021-06-23T19:23:11Z",
+                "open_issues": 6,
                 "owner": "reiver",
                 "repo": "go-porterstemmer",
-                "stars": 193
+                "stars": 193,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -83,12 +103,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Golang implementation of the Paice/Husk Stemming Algorithm",
+                "homepage": null,
                 "id": 6010559,
                 "language": "Go",
+                "license": "BSD-2-Clause",
                 "last_commit": "2013-12-16T12:45:11Z",
+                "open_issues": 2,
                 "owner": "rookii",
                 "repo": "paicehusk",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             }
@@ -97,12 +122,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+            "homepage": null,
             "id": 21872392,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T15:29:10Z",
+            "open_issues": 29,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74199
+            "stars": 74202,
+            "topics": []
           },
           "title": "自然语言处理",
           "first_seen": "2026-08-28T19:24:46.044Z"
@@ -116,12 +146,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Machine Learning for Go",
+                "homepage": null,
                 "id": 15452925,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2024-01-15T13:55:44Z",
+                "open_issues": 89,
                 "owner": "sjwhitworth",
                 "repo": "golearn",
-                "stars": 9439
+                "stars": 9439,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -132,12 +167,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Naive Bayesian Classification for Golang.",
+                "homepage": null,
                 "id": 2833211,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2025-12-07T20:39:16Z",
+                "open_issues": 0,
                 "owner": "jbrukh",
                 "repo": "bayesian",
-                "stars": 816
+                "stars": 816,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -148,12 +188,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Genetic Algorithms library written in Go / golang",
+                "homepage": null,
                 "id": 390071,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2015-12-28T16:27:45Z",
+                "open_issues": 0,
                 "owner": "thoj",
                 "repo": "go-galib",
-                "stars": 202
+                "stars": 202,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -164,12 +209,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pattern recognition package in Go lang.",
+                "homepage": null,
                 "id": 10541047,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2013-06-08T10:17:05Z",
+                "open_issues": 0,
                 "owner": "daviddengcn",
                 "repo": "go-pr",
-                "stars": 68
+                "stars": 68,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             }
@@ -178,12 +228,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+            "homepage": null,
             "id": 21872392,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T15:29:10Z",
+            "open_issues": 29,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74199
+            "stars": 74202,
+            "topics": []
           },
           "title": "通用机器学习",
           "first_seen": "2026-08-28T19:24:46.044Z"
@@ -197,12 +252,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Graph library for Go/golang language.",
+                "homepage": null,
                 "id": 658667,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2015-11-07T04:58:42Z",
+                "open_issues": 0,
                 "owner": "StepLg",
                 "repo": "go-graph",
-                "stars": 95
+                "stars": 95,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             }
@@ -211,12 +271,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+            "homepage": null,
             "id": 21872392,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T15:29:10Z",
+            "open_issues": 29,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74199
+            "stars": 74202,
+            "topics": []
           },
           "title": "数据分析/数据可视化",
           "first_seen": "2026-08-28T19:24:46.044Z"
@@ -236,12 +301,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A Java implementation of Twitter's text processing library",
+                "homepage": null,
                 "id": 1133745,
                 "language": null,
+                "license": null,
                 "last_commit": "2014-12-13T16:43:09Z",
+                "open_issues": 8,
                 "owner": "twitter-archive",
                 "repo": "twitter-text-java",
-                "stars": 364
+                "stars": 364,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             }
@@ -250,12 +320,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+            "homepage": null,
             "id": 21872392,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T15:29:10Z",
+            "open_issues": 29,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74199
+            "stars": 74202,
+            "topics": []
           },
           "title": "自然语言处理",
           "first_seen": "2026-08-28T19:24:46.044Z"
@@ -269,12 +344,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apache Mahout - an environment for quickly creating scalable, performant machine learning applications.",
+                "homepage": "https://mahout.apache.org/",
                 "id": 20089859,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-16T06:32:13Z",
+                "open_issues": 75,
                 "owner": "apache",
                 "repo": "mahout",
-                "stars": 2304
+                "stars": 2305,
+                "topics": [
+                  "apache-mahout",
+                  "cuda",
+                  "python",
+                  "qumat",
+                  "qumat-qdp",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             }
@@ -283,12 +370,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+            "homepage": null,
             "id": 21872392,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T15:29:10Z",
+            "open_issues": 29,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74199
+            "stars": 74202,
+            "topics": []
           },
           "title": "通用机器学习",
           "first_seen": "2026-08-28T19:24:46.044Z"
@@ -302,12 +394,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apache Spark - A unified analytics engine for large-scale data processing",
+                "homepage": "https://spark.apache.org/",
                 "id": 17165658,
                 "language": "Scala",
-                "last_commit": "2026-08-28T18:50:39Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T00:45:28Z",
+                "open_issues": 497,
                 "owner": "apache",
                 "repo": "spark",
-                "stars": 43900
+                "stars": 43900,
+                "topics": [
+                  "big-data",
+                  "java",
+                  "jdbc",
+                  "python",
+                  "r",
+                  "scala",
+                  "spark",
+                  "sql"
+                ]
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -318,12 +424,19 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Mirror of Apache Hadoop MapReduce",
+                "homepage": null,
                 "id": 25507372,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2019-10-27T19:01:08Z",
+                "open_issues": 2,
                 "owner": "apache",
                 "repo": "hadoop-mapreduce",
-                "stars": 115
+                "stars": 115,
+                "topics": [
+                  "hadoop"
+                ]
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -334,12 +447,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Real-time Query for Hadoop; mirror of Apache Impala",
+                "homepage": "http://impala.io",
                 "id": 6282442,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2022-12-27T15:24:56Z",
+                "open_issues": 28,
                 "owner": "cloudera",
                 "repo": "Impala",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             }
@@ -348,12 +466,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+            "homepage": null,
             "id": 21872392,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T15:29:10Z",
+            "open_issues": 29,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74199
+            "stars": 74202,
+            "topics": []
           },
           "title": "数据分析/数据可视化",
           "first_seen": "2026-08-28T19:24:46.044Z"
@@ -373,12 +496,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "general natural language facilities for node",
+                "homepage": null,
                 "id": 1714160,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-02-22T21:53:54Z",
+                "open_issues": 87,
                 "owner": "NaturalNode",
                 "repo": "natural",
-                "stars": 10880
+                "stars": 10881,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -389,12 +517,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Find Dates, Places, Times, and More. A .js library for parsing text for specific information.",
+                "homepage": null,
                 "id": 14831922,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-09-28T00:34:09Z",
+                "open_issues": 13,
                 "owner": "benhmoore",
                 "repo": "Knwl",
-                "stars": 5252
+                "stars": 5252,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -405,12 +538,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A JavaScript implementation of Twitter's text processing library",
+                "homepage": null,
                 "id": 1133747,
                 "language": null,
+                "license": null,
                 "last_commit": "2016-01-11T14:50:20Z",
+                "open_issues": 20,
                 "owner": "twitter-archive",
                 "repo": "twitter-text-js",
-                "stars": 1206
+                "stars": 1206,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -421,12 +559,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NLP utilities in javascript and coffeescript",
+                "homepage": null,
                 "id": 10564052,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2013-11-30T20:42:42Z",
+                "open_issues": 2,
                 "owner": "nicktesla",
                 "repo": "nlpjs",
-                "stars": 37
+                "stars": 37,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             }
@@ -435,12 +578,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+            "homepage": null,
             "id": 21872392,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T15:29:10Z",
+            "open_issues": 29,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74199
+            "stars": 74202,
+            "topics": []
           },
           "title": "自然语言处理",
           "first_seen": "2026-08-28T19:24:46.044Z"
@@ -451,12 +599,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+            "homepage": null,
             "id": 21872392,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T15:29:10Z",
+            "open_issues": 29,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74199
+            "stars": 74202,
+            "topics": []
           },
           "title": "数据分析/数据可视化",
           "first_seen": "2026-08-28T19:24:46.044Z"
@@ -470,12 +623,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Simple feed-forward neural network in JavaScript",
+                "homepage": null,
                 "id": 658594,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-09-03T20:20:29Z",
+                "open_issues": 21,
                 "owner": "harthur",
                 "repo": "brain",
-                "stars": 7988
+                "stars": 7988,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -486,12 +644,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Support Vector Machines for nodejs",
+                "homepage": null,
                 "id": 18116327,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-03-26T12:35:59Z",
+                "open_issues": 10,
                 "owner": "nicolaspanel",
                 "repo": "node-svm",
-                "stars": 301
+                "stars": 301,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -502,12 +665,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LDA topic modeling for node.js",
+                "homepage": null,
                 "id": 20229044,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-20T21:54:11Z",
+                "open_issues": 2,
                 "owner": "primaryobjects",
                 "repo": "lda",
-                "stars": 294
+                "stars": 294,
+                "topics": [
+                  "ai",
+                  "artificial-intelligence",
+                  "javascript",
+                  "keywords",
+                  "language",
+                  "lda",
+                  "machine-learning",
+                  "natural-language-processing",
+                  "nlp",
+                  "node",
+                  "node-js",
+                  "nodejs",
+                  "topic-modeling",
+                  "topics"
+                ]
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -518,12 +701,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NodeJS Implementation of Decision Tree using ID3 Algorithm",
+                "homepage": "https://npmjs.org/package/decision-tree",
                 "id": 9729076,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-04-02T07:05:16Z",
+                "open_issues": 6,
                 "owner": "serendipious",
                 "repo": "nodejs-decision-tree",
-                "stars": 220
+                "stars": 220,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -534,12 +722,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FANN (Fast Artificial Neural Network Library) bindings for Node.js",
+                "homepage": null,
                 "id": 2609949,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2017-01-11T11:58:51Z",
+                "open_issues": 11,
                 "owner": "rlidwka",
                 "repo": "node-fann",
-                "stars": 183
+                "stars": 183,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -550,12 +743,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "javascript implementation of logistic regression/c4.5 decision tree",
+                "homepage": "http://www.cs.cmu.edu/~yandongl/learningjs/decision-tree-demo.html",
                 "id": 18541373,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2019-05-15T22:43:01Z",
+                "open_issues": 1,
                 "owner": "yandongliu",
                 "repo": "learningjs",
-                "stars": 65
+                "stars": 65,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -566,12 +764,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple Javascript implementation of the k-means algorithm, for node.js and the browser",
+                "homepage": null,
                 "id": 9031106,
                 "language": "CoffeeScript",
+                "license": null,
                 "last_commit": "2013-07-30T10:36:10Z",
+                "open_issues": 2,
                 "owner": "emilbayes",
                 "repo": "kMeans.js",
-                "stars": 46
+                "stars": 46,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -582,12 +785,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bayesian bandit implementation for Node and the browser.",
+                "homepage": null,
                 "id": 12055082,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-08-10T20:31:24Z",
+                "open_issues": 0,
                 "owner": "omphalos",
                 "repo": "bayesian-bandit.js",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -598,12 +806,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Clustering algorithms implemented in Javascript for Node.js and the browser",
+                "homepage": null,
                 "id": 11071818,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2014-07-18T07:33:25Z",
+                "open_issues": 0,
                 "owner": "emilbayes",
                 "repo": "clustering.js",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             }
@@ -612,12 +825,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+            "homepage": null,
             "id": 21872392,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T15:29:10Z",
+            "open_issues": 29,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74199
+            "stars": 74202,
+            "topics": []
           },
           "title": "通用机器学习",
           "first_seen": "2026-08-28T19:24:46.044Z"
@@ -637,12 +855,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generalized linear models in Julia",
+                "homepage": null,
                 "id": 4490597,
                 "language": "Julia",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-23T16:07:41Z",
+                "open_issues": 82,
                 "owner": "JuliaStats",
                 "repo": "GLM.jl",
-                "stars": 636
+                "stars": 636,
+                "topics": [
+                  "data-science",
+                  "glm",
+                  "julia",
+                  "regression",
+                  "statistical-models",
+                  "statistics"
+                ]
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -653,12 +883,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Julia package for fitting (statistical) mixed-effects models",
+                "homepage": "http://juliastats.org/MixedModels.jl/stable",
                 "id": 9106942,
                 "language": "Julia",
+                "license": "MIT",
                 "last_commit": "2026-08-28T15:17:13Z",
+                "open_issues": 53,
                 "owner": "JuliaStats",
                 "repo": "MixedModels.jl",
-                "stars": 449
+                "stars": 449,
+                "topics": [
+                  "julia",
+                  "mixed-effects",
+                  "mixed-models",
+                  "statistical-models",
+                  "statistics"
+                ]
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -669,12 +910,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Julia package for data clustering",
+                "homepage": "http://juliastats.org/Clustering.jl/",
                 "id": 6841256,
                 "language": "Julia",
+                "license": "NOASSERTION",
                 "last_commit": "2025-11-24T14:52:26Z",
+                "open_issues": 47,
                 "owner": "JuliaStats",
                 "repo": "Clustering.jl",
-                "stars": 376
+                "stars": 376,
+                "topics": [
+                  "clustering",
+                  "fuzzy-clustering",
+                  "hierarchical-clustering",
+                  "julia",
+                  "k-means",
+                  "markov-clustering"
+                ]
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -685,12 +938,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kernel density estimators for Julia",
+                "homepage": null,
                 "id": 18737451,
                 "language": "Julia",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-22T18:13:40Z",
+                "open_issues": 35,
                 "owner": "JuliaStats",
                 "repo": "KernelDensity.jl",
-                "stars": 208
+                "stars": 208,
+                "topics": [
+                  "julia",
+                  "kernel-density-estimation",
+                  "statistics"
+                ]
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -701,12 +963,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Local regression, so smooooth!",
+                "homepage": null,
                 "id": 12821775,
                 "language": "Julia",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-23T18:12:50Z",
+                "open_issues": 11,
                 "owner": "JuliaStats",
                 "repo": "Loess.jl",
-                "stars": 114
+                "stars": 114,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -717,12 +984,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Julia wrapper for fitting Lasso/ElasticNet GLM models using glmnet",
+                "homepage": null,
                 "id": 14514405,
                 "language": "Julia",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-24T00:13:02Z",
+                "open_issues": 16,
                 "owner": "JuliaStats",
                 "repo": "GLMNet.jl",
-                "stars": 105
+                "stars": 105,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -733,12 +1005,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Julia package for non-negative matrix factorization",
+                "homepage": null,
                 "id": 16645927,
                 "language": "Julia",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-01T19:46:02Z",
+                "open_issues": 6,
                 "owner": "JuliaStats",
                 "repo": "NMF.jl",
-                "stars": 97
+                "stars": 97,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -749,12 +1026,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Algorithms for regression analysis (e.g. linear regression and logistic regression)",
+                "homepage": null,
                 "id": 11177901,
                 "language": "Julia",
+                "license": "MIT",
                 "last_commit": "2017-05-23T03:16:30Z",
+                "open_issues": 7,
                 "owner": "lindahua",
                 "repo": "Regression.jl",
-                "stars": 64
+                "stars": 64,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -765,12 +1047,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Julia artificial neural networks",
+                "homepage": null,
                 "id": 18970887,
                 "language": "Julia",
+                "license": "NOASSERTION",
                 "last_commit": "2019-04-09T17:41:58Z",
+                "open_issues": 1,
                 "owner": "ericchiang",
                 "repo": "ANN.jl",
-                "stars": 55
+                "stars": 55,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -781,12 +1068,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Julia framework for probabilistic graphical models.",
+                "homepage": null,
                 "id": 17950267,
                 "language": "Julia",
+                "license": "NOASSERTION",
                 "last_commit": "2020-02-08T16:08:22Z",
+                "open_issues": 4,
                 "owner": "JuliaStats",
                 "repo": "PGM.jl",
-                "stars": 53
+                "stars": 53,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -797,12 +1089,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A neural network in Julia",
+                "homepage": null,
                 "id": 6023323,
                 "language": "Julia",
+                "license": "NOASSERTION",
                 "last_commit": "2017-05-23T20:30:52Z",
+                "open_issues": 0,
                 "owner": "compressed",
                 "repo": "BackpropNeuralNet.jl",
-                "stars": 48
+                "stars": 48,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -813,12 +1110,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "SVM's for Julia",
+                "homepage": null,
                 "id": 7637659,
                 "language": "Julia",
+                "license": "NOASSERTION",
                 "last_commit": "2016-07-26T03:46:18Z",
+                "open_issues": 8,
                 "owner": "JuliaStats",
                 "repo": "SVM.jl",
-                "stars": 40
+                "stars": 40,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -829,12 +1131,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MCMC tools for Julia",
+                "homepage": null,
                 "id": 4690534,
                 "language": "Julia",
+                "license": "MIT",
                 "last_commit": "2013-04-16T22:36:01Z",
+                "open_issues": 4,
                 "owner": "doobwa",
                 "repo": "MCMC.jl",
-                "stars": 36
+                "stars": 36,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -845,12 +1152,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Julia module for Distance evaluation",
+                "homepage": null,
                 "id": 7858705,
                 "language": "Julia",
+                "license": "MIT",
                 "last_commit": "2015-03-17T23:15:26Z",
+                "open_issues": 0,
                 "owner": "JuliaStats",
                 "repo": "Distance.jl",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -861,12 +1173,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Deprecated in favor of MultivariateStats.jl",
+                "homepage": null,
                 "id": 7288240,
                 "language": "Julia",
+                "license": "NOASSERTION",
                 "last_commit": "2014-09-13T16:21:15Z",
+                "open_issues": 5,
                 "owner": "JuliaStats",
                 "repo": "DimensionalityReduction.jl",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -877,12 +1194,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 20711812,
                 "language": "Julia",
+                "license": "NOASSERTION",
                 "last_commit": "2014-12-09T20:00:44Z",
+                "open_issues": 0,
                 "owner": "lendle",
                 "repo": "OnlineLearning.jl",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -893,12 +1215,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "basic mcmc sampler implemented in Julia",
+                "homepage": null,
                 "id": 6786110,
                 "language": "Julia",
+                "license": "NOASSERTION",
                 "last_commit": "2013-07-01T11:01:28Z",
+                "open_issues": 1,
                 "owner": "fredo-dedup",
                 "repo": "SimpleMCMC.jl",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -909,12 +1236,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Regularized discriminant analysis in Julia.",
+                "homepage": null,
                 "id": 13402862,
                 "language": "Julia",
+                "license": "MIT",
                 "last_commit": "2021-01-10T00:58:12Z",
+                "open_issues": 5,
                 "owner": "trthatcher",
                 "repo": "DiscriminantAnalysis.jl",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "discriminant-analysis",
+                  "julia",
+                  "statistics"
+                ]
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -925,12 +1261,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Julia implementation of Decision Tree (CART) and Random Forest algorithms",
+                "homepage": null,
                 "id": 487724532,
                 "language": "Julia",
+                "license": "NOASSERTION",
                 "last_commit": "2022-05-05T02:21:19Z",
+                "open_issues": 0,
                 "owner": "bensadeghi",
                 "repo": "DecisionTree.jl",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -941,12 +1282,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple Naive Bayes implementation in Julia",
+                "homepage": null,
                 "id": 10466866,
                 "language": "Julia",
+                "license": null,
                 "last_commit": "2013-06-03T23:15:00Z",
+                "open_issues": 0,
                 "owner": "nutsiepully",
                 "repo": "NaiveBayes.jl",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             }
@@ -955,12 +1301,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+            "homepage": null,
             "id": 21872392,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T15:29:10Z",
+            "open_issues": 29,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74199
+            "stars": 74202,
+            "topics": []
           },
           "title": "通用机器学习",
           "first_seen": "2026-08-28T19:24:46.044Z"
@@ -974,12 +1325,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Julia package for text analysis",
+                "homepage": null,
                 "id": 4300438,
                 "language": "Julia",
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-08T16:15:28Z",
+                "open_issues": 38,
                 "owner": "JuliaText",
                 "repo": "TextAnalysis.jl",
-                "stars": 384
+                "stars": 384,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -990,12 +1346,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TopicModels for Julia",
+                "homepage": null,
                 "id": 8829383,
                 "language": "Julia",
+                "license": "MIT",
                 "last_commit": "2020-05-31T01:53:24Z",
+                "open_issues": 0,
                 "owner": "slycoder",
                 "repo": "TopicModels.jl",
-                "stars": 38
+                "stars": 38,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             }
@@ -1004,12 +1365,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+            "homepage": null,
             "id": 21872392,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T15:29:10Z",
+            "open_issues": 29,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74199
+            "stars": 74202,
+            "topics": []
           },
           "title": "自然语言处理",
           "first_seen": "2026-08-28T19:24:46.044Z"
@@ -1023,12 +1389,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Crafty statistical graphics for Julia.",
+                "homepage": "http://gadflyjl.org/stable/",
                 "id": 5319457,
                 "language": "Julia",
+                "license": "NOASSERTION",
                 "last_commit": "2025-10-04T00:20:43Z",
+                "open_issues": 276,
                 "owner": "GiovineItalia",
                 "repo": "Gadfly.jl",
-                "stars": 1927
+                "stars": 1927,
+                "topics": [
+                  "gadfly",
+                  "ggplot2",
+                  "graphics",
+                  "hacktoberfest",
+                  "julia",
+                  "plotting"
+                ]
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -1039,12 +1417,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "In-memory tabular data in Julia",
+                "homepage": "https://dataframes.juliadata.org/stable/",
                 "id": 4992873,
                 "language": "Julia",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-23T06:08:21Z",
+                "open_issues": 160,
                 "owner": "JuliaData",
                 "repo": "DataFrames.jl",
-                "stars": 1831
+                "stars": 1831,
+                "topics": [
+                  "data",
+                  "data-frame",
+                  "dataframes",
+                  "datasets",
+                  "hacktoberfest",
+                  "julia",
+                  "tabular-data"
+                ]
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -1055,12 +1446,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Julia package for probability distributions and associated functions.",
+                "homepage": null,
                 "id": 6619192,
                 "language": "Julia",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-20T12:08:03Z",
+                "open_issues": 474,
                 "owner": "JuliaStats",
                 "repo": "Distributions.jl",
-                "stars": 1197
+                "stars": 1197,
+                "topics": [
+                  "data-science",
+                  "julia",
+                  "probability-distributions",
+                  "statistics"
+                ]
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -1071,12 +1472,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Metaprogramming tools for DataFrames",
+                "homepage": "https://juliadata.github.io/DataFramesMeta.jl/stable/",
                 "id": 16530347,
                 "language": "Julia",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-25T19:04:32Z",
+                "open_issues": 41,
                 "owner": "JuliaData",
                 "repo": "DataFramesMeta.jl",
-                "stars": 496
+                "stars": 496,
+                "topics": [
+                  "data",
+                  "data-frame",
+                  "dataframes",
+                  "dataframesmeta",
+                  "datasets",
+                  "hacktoberfest",
+                  "julia",
+                  "tabular-data"
+                ]
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -1087,12 +1502,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Time series toolkit for Julia",
+                "homepage": null,
                 "id": 7288296,
                 "language": "Julia",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-30T15:44:36Z",
+                "open_issues": 48,
                 "owner": "JuliaStats",
                 "repo": "TimeSeries.jl",
-                "stars": 369
+                "stars": 369,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -1103,12 +1523,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hypothesis tests for Julia",
+                "homepage": null,
                 "id": 7075980,
                 "language": "Julia",
+                "license": "MIT",
                 "last_commit": "2026-06-23T05:11:35Z",
+                "open_issues": 97,
                 "owner": "JuliaStats",
                 "repo": "HypothesisTests.jl",
-                "stars": 317
+                "stars": 317,
+                "topics": [
+                  "hacktoberfest",
+                  "hypothesis-testing",
+                  "julia",
+                  "statistics"
+                ]
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -1119,12 +1549,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Julia package for loading many of the data sets available in R",
+                "homepage": null,
                 "id": 6836606,
                 "language": "R",
+                "license": "GPL-3.0",
                 "last_commit": "2026-06-24T05:52:54Z",
+                "open_issues": 22,
                 "owner": "JuliaStats",
                 "repo": "RDatasets.jl",
-                "stars": 167
+                "stars": 167,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -1135,12 +1570,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Read files from Stata, SAS, and SPSS",
+                "homepage": null,
                 "id": 14847054,
                 "language": "Julia",
-                "last_commit": "2023-12-29T02:50:15Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T04:02:44Z",
+                "open_issues": 12,
                 "owner": "queryverse",
                 "repo": "ReadStat.jl",
-                "stars": 79
+                "stars": 79,
+                "topics": [
+                  "julia",
+                  "queryverse"
+                ]
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -1151,12 +1594,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "DEPRECATED: Data structures that allow missing values",
+                "homepage": null,
                 "id": 13037100,
                 "language": "Julia",
+                "license": "NOASSERTION",
                 "last_commit": "2018-08-27T20:46:28Z",
+                "open_issues": 54,
                 "owner": "JuliaStats",
                 "repo": "DataArrays.jl",
-                "stars": 53
+                "stars": 53,
+                "topics": [
+                  "deprecated",
+                  "julia"
+                ]
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -1167,12 +1618,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Graph layout algorithms in pure Julia",
+                "homepage": null,
                 "id": 21441249,
                 "language": "Julia",
+                "license": "MIT",
                 "last_commit": "2020-05-25T03:41:17Z",
+                "open_issues": 0,
                 "owner": "IainNZ",
                 "repo": "GraphLayout.jl",
-                "stars": 44
+                "stars": 44,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -1183,12 +1639,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "library for working with tabular data in Julia",
+                "homepage": null,
                 "id": 5548163,
                 "language": "Julia",
+                "license": "NOASSERTION",
                 "last_commit": "2013-09-04T08:55:50Z",
+                "open_issues": 0,
                 "owner": "nfoti",
                 "repo": "JuliaData",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -1199,12 +1660,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Basic sampling algorithms for Julia",
+                "homepage": null,
                 "id": 20963402,
                 "language": "Julia",
+                "license": "NOASSERTION",
                 "last_commit": "2014-06-19T02:38:06Z",
+                "open_issues": 1,
                 "owner": "lindahua",
                 "repo": "Sampling.jl",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             }
@@ -1213,12 +1679,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+            "homepage": null,
             "id": 21872392,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T15:29:10Z",
+            "open_issues": 29,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74199
+            "stars": 74202,
+            "topics": []
           },
           "title": "数据分析/数据可视化",
           "first_seen": "2026-08-28T19:24:46.044Z"
@@ -1232,12 +1703,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An image library for Julia",
+                "homepage": "http://juliaimages.org/",
                 "id": 7018954,
                 "language": "Julia",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-01T23:51:13Z",
+                "open_issues": 44,
                 "owner": "JuliaImages",
                 "repo": "Images.jl",
-                "stars": 550
+                "stars": 550,
+                "topics": [
+                  "image-processing",
+                  "julia"
+                ]
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -1248,12 +1727,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Presentations for JuliaCon",
+                "homepage": null,
                 "id": 21004943,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2016-03-07T19:33:22Z",
+                "open_issues": 1,
                 "owner": "JuliaCon",
                 "repo": "presentations",
-                "stars": 70
+                "stars": 70,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -1264,12 +1748,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Signal Processing tools for Julia",
+                "homepage": null,
                 "id": 14918760,
                 "language": "Julia",
+                "license": "GPL-2.0",
                 "last_commit": "2014-10-11T19:44:39Z",
+                "open_issues": 0,
                 "owner": "davidavdav",
                 "repo": "SignalProcessing.jl",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             }
@@ -1278,12 +1767,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+            "homepage": null,
             "id": 21872392,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T15:29:10Z",
+            "open_issues": 29,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74199
+            "stars": 74202,
+            "topics": []
           },
           "title": "杂项/演示文稿",
           "first_seen": "2026-08-28T19:24:46.044Z"
@@ -1308,12 +1802,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 13677447,
                     "language": "Lua",
+                    "license": "NOASSERTION",
                     "last_commit": "2021-01-12T19:56:45Z",
+                    "open_issues": 173,
                     "owner": "torch",
                     "repo": "nn",
-                    "stars": 1358
+                    "stars": 1358,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:24:46.044Z"
                 },
@@ -1324,12 +1823,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 16191061,
                     "language": "C",
+                    "license": "NOASSERTION",
                     "last_commit": "2014-08-12T17:38:21Z",
+                    "open_issues": 34,
                     "owner": "sermanet",
                     "repo": "OverFeat",
-                    "stars": 602
+                    "stars": 602,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:24:46.044Z"
                 },
@@ -1340,12 +1844,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A CUDA backend for Torch7",
+                    "homepage": null,
                     "id": 13677478,
                     "language": "Cuda",
+                    "license": "NOASSERTION",
                     "last_commit": "2017-09-11T21:54:52Z",
+                    "open_issues": 144,
                     "owner": "torch",
                     "repo": "cutorch",
-                    "stars": 340
+                    "stars": 340,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:24:46.044Z"
                 },
@@ -1356,12 +1865,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Graph Computation for nn",
+                    "homepage": null,
                     "id": 9166958,
                     "language": "Lua",
+                    "license": "NOASSERTION",
                     "last_commit": "2017-08-01T14:08:52Z",
+                    "open_issues": 29,
                     "owner": "torch",
                     "repo": "nngraph",
-                    "stars": 299
+                    "stars": 299,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:24:46.044Z"
                 },
@@ -1372,12 +1886,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 13677499,
                     "language": "Cuda",
+                    "license": "NOASSERTION",
                     "last_commit": "2019-08-27T00:44:54Z",
+                    "open_issues": 57,
                     "owner": "torch",
                     "repo": "cunn",
-                    "stars": 213
+                    "stars": 213,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:24:46.044Z"
                 },
@@ -1388,12 +1907,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A numeric optimization package for Torch.",
+                    "homepage": null,
                     "id": 11314007,
                     "language": "Lua",
+                    "license": "NOASSERTION",
                     "last_commit": "2017-11-27T21:55:36Z",
+                    "open_issues": 31,
                     "owner": "torch",
                     "repo": "optim",
-                    "stars": 197
+                    "stars": 197,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:24:46.044Z"
                 },
@@ -1404,12 +1928,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A package to manipulate manifolds.",
+                    "homepage": null,
                     "id": 12687998,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2017-07-03T13:23:29Z",
+                    "open_issues": 7,
                     "owner": "clementfarabet",
                     "repo": "manifold",
-                    "stars": 143
+                    "stars": 143,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:24:46.044Z"
                 },
@@ -1420,12 +1949,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An extension to Torch7's nn package.",
+                    "homepage": null,
                     "id": 2002672,
                     "language": "Lua",
+                    "license": "NOASSERTION",
                     "last_commit": "2017-05-30T14:18:58Z",
+                    "open_issues": 12,
                     "owner": "clementfarabet",
                     "repo": "lua---nnx",
-                    "stars": 97
+                    "stars": 97,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:24:46.044Z"
                 },
@@ -1436,12 +1970,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Some unsupervised learning modules using Torch",
+                    "homepage": null,
                     "id": 2156857,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2017-05-23T12:01:42Z",
+                    "open_issues": 10,
                     "owner": "koraykv",
                     "repo": "unsup",
-                    "stars": 86
+                    "stars": 86,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:24:46.044Z"
                 },
@@ -1452,12 +1991,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 6031100,
                     "language": "C++",
+                    "license": "NOASSERTION",
                     "last_commit": "2016-05-31T15:11:49Z",
+                    "open_issues": 9,
                     "owner": "koraykv",
                     "repo": "torch-svm",
-                    "stars": 44
+                    "stars": 44,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:24:46.044Z"
                 },
@@ -1468,12 +2012,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Graph package for Torch",
+                    "homepage": null,
                     "id": 6864357,
                     "language": "Lua",
+                    "license": "NOASSERTION",
                     "last_commit": "2016-11-24T01:17:23Z",
+                    "open_issues": 1,
                     "owner": "torch",
                     "repo": "graph",
-                    "stars": 38
+                    "stars": 38,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:24:46.044Z"
                 },
@@ -1484,12 +2033,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A package to deal with graphs built on images.",
+                    "homepage": null,
                     "id": 2045624,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2017-10-27T17:14:31Z",
+                    "open_issues": 5,
                     "owner": "clementfarabet",
                     "repo": "lua---imgraph",
-                    "stars": 23
+                    "stars": 23,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:24:46.044Z"
                 },
@@ -1500,12 +2054,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This package extends imgraph, for videos...",
+                    "homepage": null,
                     "id": 4620798,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2013-07-04T18:05:21Z",
+                    "open_issues": 0,
                     "owner": "clementfarabet",
                     "repo": "videograph",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:24:46.044Z"
                 },
@@ -1516,12 +2075,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "feature extractor library for torch7",
+                    "homepage": null,
                     "id": 3516768,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2014-01-31T14:27:03Z",
+                    "open_issues": 0,
                     "owner": "koraykv",
                     "repo": "fex",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:24:46.044Z"
                 },
@@ -1532,12 +2096,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An OpenGM wrapper for Lua.",
+                    "homepage": null,
                     "id": 2442421,
                     "language": "C++",
+                    "license": null,
                     "last_commit": "2012-03-02T02:43:50Z",
+                    "open_issues": 1,
                     "owner": "clementfarabet",
                     "repo": "lua---opengm",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:24:46.044Z"
                 },
@@ -1548,12 +2117,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "code and tools around integral images",
+                    "homepage": null,
                     "id": 4918834,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2013-12-13T19:34:06Z",
+                    "open_issues": 0,
                     "owner": "marcoscoffier",
                     "repo": "torch-saliency",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:24:46.044Z"
                 },
@@ -1564,12 +2138,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "kernel smoothers in lua",
+                    "homepage": null,
                     "id": 5184222,
                     "language": "Lua",
+                    "license": "NOASSERTION",
                     "last_commit": "2012-10-26T16:00:06Z",
+                    "open_issues": 1,
                     "owner": "rlowrance",
                     "repo": "kernel-smoothers",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:24:46.044Z"
                 },
@@ -1580,12 +2159,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "allows us to use hugin to stitch images and apply same stitching to a video sequence",
+                    "homepage": null,
                     "id": 3223686,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2012-05-06T09:00:44Z",
+                    "open_issues": 0,
                     "owner": "marcoscoffier",
                     "repo": "lua---stitch",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:24:46.044Z"
                 },
@@ -1596,12 +2180,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Lua wrapper for shkit",
+                    "homepage": null,
                     "id": 18337270,
                     "language": "C++",
+                    "license": null,
                     "last_commit": "2014-05-21T21:04:54Z",
+                    "open_issues": 0,
                     "owner": "ocallaco",
                     "repo": "LuaSHkit",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:24:46.044Z"
                 },
@@ -1612,12 +2201,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "wrapper for http://www.ics.forth.gr/~lourakis/sba",
+                    "homepage": null,
                     "id": 3306737,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2012-02-15T18:26:53Z",
+                    "open_issues": 0,
                     "owner": "marcoscoffier",
                     "repo": "lua---sfm",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:24:46.044Z"
                 },
@@ -1628,12 +2222,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "LibLBFGS (C Lib) wrapper.",
+                    "homepage": null,
                     "id": 8643646,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2013-03-08T14:10:56Z",
+                    "open_issues": 0,
                     "owner": "clementfarabet",
                     "repo": "lbfgs",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:24:46.044Z"
                 },
@@ -1644,12 +2243,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "John Langford's original release of Vowpal Wabbit -- a fast online learning algorithm",
+                    "homepage": "http://hunch.net/~vw/",
                     "id": 2683435,
                     "language": "C++",
+                    "license": "NOASSERTION",
                     "last_commit": "2012-05-09T18:50:58Z",
+                    "open_issues": 0,
                     "owner": "clementfarabet",
                     "repo": "vowpal_wabbit",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:24:46.044Z"
                 },
@@ -1660,12 +2264,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Spaghetti (sparse linear) module for torch7",
+                    "homepage": null,
                     "id": 10674911,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2013-08-05T17:44:46Z",
+                    "open_issues": 0,
                     "owner": "MichaelMathieu",
                     "repo": "lua---spaghetti",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:24:46.044Z"
                 }
@@ -1676,12 +2285,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+            "homepage": null,
             "id": 21872392,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T15:29:10Z",
+            "open_issues": 29,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74199
+            "stars": 74202,
+            "topics": []
           },
           "title": "通用机器学习",
           "first_seen": "2026-08-28T19:24:46.044Z"
@@ -1695,12 +2309,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Demos and tutorials around Torch7 (in progress updates from xLearn)",
+                "homepage": null,
                 "id": 3258997,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2017-02-15T16:55:20Z",
+                "open_issues": 0,
                 "owner": "e-lab",
                 "repo": "torch7-demos",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -1711,12 +2330,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of machine learning datasets for use with Torch7.",
+                "homepage": null,
                 "id": 5615576,
                 "language": "Lua",
+                "license": "BSD-3-Clause",
                 "last_commit": "2014-03-12T13:12:09Z",
+                "open_issues": 3,
                 "owner": "rosejn",
                 "repo": "torch-datasets",
-                "stars": 36
+                "stars": 36,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -1727,12 +2351,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Entry for GalaxyZoo challenge",
+                "homepage": null,
                 "id": 17962173,
                 "language": "Lua",
+                "license": "NOASSERTION",
                 "last_commit": "2014-11-01T17:41:27Z",
+                "open_issues": 1,
                 "owner": "soumith",
                 "repo": "galaxyzoo",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -1743,12 +2372,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scripts to generate a dataset with static frames from the Arcade Learning Environment",
+                "homepage": null,
                 "id": 19617075,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2014-05-09T20:17:31Z",
+                "open_issues": 2,
                 "owner": "fidlej",
                 "repo": "aledataset",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             }
@@ -1757,12 +2391,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+            "homepage": null,
             "id": 21872392,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T15:29:10Z",
+            "open_issues": 29,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74199
+            "stars": 74202,
+            "topics": []
           },
           "title": "演示及脚本",
           "first_seen": "2026-08-28T19:24:46.044Z"
@@ -1779,12 +2418,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+            "homepage": null,
             "id": 21872392,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T15:29:10Z",
+            "open_issues": 29,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74199
+            "stars": 74202,
+            "topics": []
           },
           "title": "计算机视觉",
           "first_seen": "2026-08-28T19:24:46.044Z"
@@ -1795,12 +2439,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+            "homepage": null,
             "id": 21872392,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T15:29:10Z",
+            "open_issues": 29,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74199
+            "stars": 74202,
+            "topics": []
           },
           "title": "自然语言处理",
           "first_seen": "2026-08-28T19:24:46.044Z"
@@ -1814,12 +2463,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "the best machine learning tutorials on the web",
+                "homepage": "http://www.dcs.gla.ac.uk/~girolami/Machine_Learning_Module_2006/",
                 "id": 1673582,
                 "language": "Objective-C",
+                "license": null,
                 "last_commit": "2011-04-28T02:23:04Z",
+                "open_issues": 0,
                 "owner": "josephmisiti",
                 "repo": "machine-learning-module",
-                "stars": 477
+                "stars": 477,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -1830,12 +2484,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pattern Recognition Toolbox for MATLAB",
+                "homepage": "http://covartech.github.io/",
                 "id": 2870382,
                 "language": "MATLAB",
+                "license": "MIT",
                 "last_commit": "2025-10-28T14:43:52Z",
+                "open_issues": 19,
                 "owner": "covartech",
                 "repo": "PRT",
-                "stars": 146
+                "stars": 146,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             }
@@ -1844,12 +2503,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+            "homepage": null,
             "id": 21872392,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T15:29:10Z",
+            "open_issues": 29,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74199
+            "stars": 74202,
+            "topics": []
           },
           "title": "通用机器学习",
           "first_seen": "2026-08-28T19:24:46.044Z"
@@ -1860,12 +2524,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+            "homepage": null,
             "id": 21872392,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T15:29:10Z",
+            "open_issues": 29,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74199
+            "stars": 74202,
+            "topics": []
           },
           "title": "数据分析/数据可视化",
           "first_seen": "2026-08-28T19:24:46.044Z"
@@ -1882,12 +2551,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+            "homepage": null,
             "id": 21872392,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T15:29:10Z",
+            "open_issues": 29,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74199
+            "stars": 74202,
+            "topics": []
           },
           "title": "计算机视觉",
           "first_seen": "2026-08-28T19:24:46.044Z"
@@ -1901,12 +2575,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stanford NLP for .NET",
+                "homepage": "http://sergey-tihon.github.io/Stanford.NLP.NET/",
                 "id": 8016374,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2024-03-22T21:31:12Z",
+                "open_issues": 1,
                 "owner": "sergey-tihon",
                 "repo": "Stanford.NLP.NET",
-                "stars": 608
+                "stars": 608,
+                "topics": [
+                  "dotnet",
+                  "fsharp",
+                  "recompiled-packages",
+                  "stanford-nlp"
+                ]
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             }
@@ -1915,12 +2599,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+            "homepage": null,
             "id": 21872392,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T15:29:10Z",
+            "open_issues": 29,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74199
+            "stars": 74202,
+            "topics": []
           },
           "title": "自然语言处理",
           "first_seen": "2026-08-28T19:24:46.044Z"
@@ -1934,12 +2623,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Vulpes: a Deep Belief Net written in F#, and using Alea.cuBase to access the GPU.",
+                "homepage": null,
                 "id": 15949792,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-08-14T12:37:15Z",
+                "open_issues": 2,
                 "owner": "fsprojects-archive",
                 "repo": "zzarchive-Vulpes",
-                "stars": 116
+                "stars": 116,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             }
@@ -1948,12 +2642,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+            "homepage": null,
             "id": 21872392,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T15:29:10Z",
+            "open_issues": 29,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74199
+            "stars": 74202,
+            "topics": []
           },
           "title": "通用机器学习",
           "first_seen": "2026-08-28T19:24:46.044Z"
@@ -1964,12 +2663,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+            "homepage": null,
             "id": 21872392,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T15:29:10Z",
+            "open_issues": 29,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74199
+            "stars": 74202,
+            "topics": []
           },
           "title": "数据分析/数据可视化",
           "first_seen": "2026-08-28T19:24:46.044Z"
@@ -1989,12 +2693,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "结巴中文分词",
+                "homepage": null,
                 "id": 6007295,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-08-21T09:23:45Z",
+                "open_issues": 700,
                 "owner": "fxsjy",
                 "repo": "jieba",
-                "stars": 35135
+                "stars": 35135,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -2005,12 +2714,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python library for processing Chinese text",
+                "homepage": null,
                 "id": 14715502,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-01-19T02:39:05Z",
+                "open_issues": 44,
                 "owner": "isnowfy",
                 "repo": "snownlp",
-                "stars": 6633
+                "stars": 6633,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -2021,12 +2735,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a chinese segment base on crf",
+                "homepage": null,
                 "id": 12236614,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2018-12-19T16:03:58Z",
+                "open_issues": 0,
                 "owner": "duanhongyi",
                 "repo": "genius",
-                "stars": 234
+                "stars": 234,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -2037,12 +2756,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Natural language Understanding Toolkit",
+                "homepage": null,
                 "id": 986315,
                 "language": "C",
+                "license": null,
                 "last_commit": "2014-05-07T18:28:00Z",
+                "open_issues": 1,
                 "owner": "pprett",
                 "repo": "nut",
-                "stars": 119
+                "stars": 119,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -2053,12 +2777,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Chinese segmentation library",
+                "homepage": null,
                 "id": 1619210,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2011-04-15T15:01:44Z",
+                "open_issues": 0,
                 "owner": "fangpenlin",
                 "repo": "loso",
-                "stars": 81
+                "stars": 81,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             }
@@ -2067,12 +2796,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+            "homepage": null,
             "id": 21872392,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T15:29:10Z",
+            "open_issues": 29,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74199
+            "stars": 74202,
+            "topics": []
           },
           "title": "自然语言处理",
           "first_seen": "2026-08-28T19:24:46.044Z"
@@ -2086,12 +2820,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Topic Modelling for Humans",
+                "homepage": "https://radimrehurek.com/gensim",
                 "id": 1349775,
                 "language": "Python",
+                "license": "LGPL-2.1",
                 "last_commit": "2025-11-01T12:01:39Z",
+                "open_issues": 440,
                 "owner": "piskvorky",
                 "repo": "gensim",
-                "stars": 16481
+                "stars": 16481,
+                "topics": [
+                  "data-mining",
+                  "data-science",
+                  "document-similarity",
+                  "fasttext",
+                  "gensim",
+                  "information-retrieval",
+                  "machine-learning",
+                  "natural-language-processing",
+                  "neural-network",
+                  "nlp",
+                  "python",
+                  "topic-modeling",
+                  "word-embeddings",
+                  "word-similarity",
+                  "word2vec"
+                ]
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -2102,12 +2857,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.",
+                "homepage": "https://github.com/clips/pattern/wiki",
                 "id": 1696822,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-05T13:05:22Z",
+                "open_issues": 179,
                 "owner": "clips",
                 "repo": "pattern",
-                "stars": 8859
+                "stars": 8859,
+                "topics": [
+                  "machine-learning",
+                  "natural-language-processing",
+                  "network-analysis",
+                  "python",
+                  "sentiment-analysis",
+                  "web-mining",
+                  "wordnet"
+                ]
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -2118,12 +2886,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex.",
+                "homepage": "http://numenta.org/",
                 "id": 9252533,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-12-03T17:50:20Z",
+                "open_issues": 465,
                 "owner": "numenta",
                 "repo": "nupic-legacy",
-                "stars": 6349
+                "stars": 6349,
+                "topics": [
+                  "artificial-intelligence",
+                  "hierarchical-temporal-memory",
+                  "machine-intelligence",
+                  "neocortex"
+                ]
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -2134,12 +2912,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Shōgun",
+                "homepage": "http://shogun-toolbox.org",
                 "id": 1555094,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2023-12-19T18:37:18Z",
+                "open_issues": 423,
                 "owner": "shogun-toolbox",
                 "repo": "shogun",
-                "stars": 3080
+                "stars": 3080,
+                "topics": [
+                  "artificial-intelligence",
+                  "c-plus-plus",
+                  "cmake",
+                  "data-science",
+                  "machine-learning",
+                  "swig"
+                ]
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -2150,12 +2940,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 241458,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2024-06-27T17:24:50Z",
+                "open_issues": 156,
                 "owner": "pybrain",
                 "repo": "pybrain",
-                "stars": 2856
+                "stars": 2856,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -2166,12 +2961,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Warning: This project does not have any current developer. See bellow.",
+                "homepage": null,
                 "id": 1103054,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2021-08-20T18:03:31Z",
+                "open_issues": 201,
                 "owner": "lisa-lab",
                 "repo": "pylearn2",
-                "stars": 2767
+                "stars": 2767,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -2182,12 +2982,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code repository for Think Bayes.",
+                "homepage": null,
                 "id": 11256352,
                 "language": "TeX",
+                "license": null,
                 "last_commit": "2021-03-12T01:26:06Z",
+                "open_issues": 12,
                 "owner": "AllenDowney",
                 "repo": "ThinkBayes",
-                "stars": 1702
+                "stars": 1702,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -2198,12 +3003,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A python library for implementing a recommender system",
+                "homepage": null,
                 "id": 2545950,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-12-29T07:08:13Z",
+                "open_issues": 9,
                 "owner": "ocelma",
                 "repo": "python-recsys",
-                "stars": 1480
+                "stars": 1480,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -2214,12 +3024,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Machine learning for NeuroImaging in Python",
+                "homepage": "http://nilearn.github.io",
                 "id": 1235740,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-27T15:45:03Z",
+                "open_issues": 290,
                 "owner": "nilearn",
                 "repo": "nilearn",
-                "stars": 1425
+                "stars": 1425,
+                "topics": [
+                  "brain-connectivity",
+                  "brain-imaging",
+                  "brain-mri",
+                  "decoding",
+                  "fmri",
+                  "machine-learning",
+                  "mvpa",
+                  "neuroimaging",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -2230,12 +3055,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Crab is a ﬂexible, fast recommender engine for Python that integrates classic information ﬁltering recommendation algorithms in the world of scientiﬁc Python packages (numpy, scipy, matplotlib).",
+                "homepage": "http://muricoca.github.com/crab",
                 "id": 1633641,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2020-12-30T00:57:50Z",
+                "open_issues": 46,
                 "owner": "muricoca",
                 "repo": "crab",
-                "stars": 1175
+                "stars": 1175,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -2246,12 +3076,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GPU-Accelerated Deep Learning Library in Python",
+                "homepage": null,
                 "id": 14549208,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2020-12-29T05:32:20Z",
+                "open_issues": 6,
                 "owner": "hannes-brt",
                 "repo": "hebel",
-                "stars": 1169
+                "stars": 1169,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -2262,12 +3097,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Restricted Boltzmann Machines in Python.",
+                "homepage": "http://blog.echen.me/2011/07/18/introduction-to-restricted-boltzmann-machines/",
                 "id": 2038135,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-04-01T21:00:16Z",
+                "open_issues": 6,
                 "owner": "echen",
                 "repo": "restricted-boltzmann-machines",
-                "stars": 970
+                "stars": 970,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -2278,12 +3118,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pyevolve",
+                "homepage": "http://pyevolve.sourceforge.net/wordpress/",
                 "id": 2188291,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-08-28T05:22:16Z",
+                "open_issues": 46,
                 "owner": "perone",
                 "repo": "Pyevolve",
-                "stars": 317
+                "stars": 317,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -2294,12 +3139,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Breze with all the stuff.",
+                "homepage": null,
                 "id": 12480643,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2016-09-02T08:21:37Z",
+                "open_issues": 29,
                 "owner": "breze-no-salt",
                 "repo": "breze",
-                "stars": 96
+                "stars": 96,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -2310,12 +3160,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bolt Online Learning Toolbox",
+                "homepage": "http://pprett.github.com/bolt/",
                 "id": 268536,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2011-10-05T11:22:29Z",
+                "open_issues": 0,
                 "owner": "pprett",
                 "repo": "bolt",
-                "stars": 88
+                "stars": 88,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -2326,12 +3181,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python implementation of cover trees, near-drop-in replacement for scipy.spatial.kdtree",
+                "homepage": null,
                 "id": 3666083,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2012-03-13T12:56:40Z",
+                "open_issues": 2,
                 "owner": "patvarilly",
                 "repo": "CoverTree",
-                "stars": 32
+                "stars": 32,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             }
@@ -2340,12 +3200,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+            "homepage": null,
             "id": 21872392,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T15:29:10Z",
+            "open_issues": 29,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74199
+            "stars": 74202,
+            "topics": []
           },
           "title": "通用机器学习",
           "first_seen": "2026-08-28T19:24:46.044Z"
@@ -2359,12 +3224,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Interactive Data Visualization in the browser, from  Python",
+                "homepage": "https://bokeh.org",
                 "id": 3834332,
                 "language": "Python",
-                "last_commit": "2026-08-28T17:35:40Z",
+                "license": "BSD-3-Clause",
+                "last_commit": "2026-08-29T01:09:56Z",
+                "open_issues": 845,
                 "owner": "bokeh",
                 "repo": "bokeh",
-                "stars": 20437
+                "stars": 20437,
+                "topics": [
+                  "bokeh",
+                  "data-visualisation",
+                  "interactive-plots",
+                  "javascript",
+                  "jupyter",
+                  "notebooks",
+                  "numfocus",
+                  "plots",
+                  "plotting",
+                  "python",
+                  "visualisation",
+                  "visualization"
+                ]
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -2375,12 +3258,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Zipline, a Pythonic Algorithmic Trading Library",
+                "homepage": "https://www.zipline.io",
                 "id": 6297520,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-02-13T08:02:51Z",
+                "open_issues": 370,
                 "owner": "quantopian",
                 "repo": "zipline",
-                "stars": 20071
+                "stars": 20072,
+                "topics": [
+                  "algorithmic-trading",
+                  "python",
+                  "quant",
+                  "zipline"
+                ]
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -2391,12 +3284,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A computer algebra system written in pure Python",
+                "homepage": "https://sympy.org/",
                 "id": 640534,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T22:33:33Z",
+                "open_issues": 5963,
                 "owner": "sympy",
                 "repo": "sympy",
-                "stars": 14895
+                "stars": 14896,
+                "topics": [
+                  "computer-algebra",
+                  "hacktoberfest",
+                  "math",
+                  "python",
+                  "science"
+                ]
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -2407,12 +3311,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Statsmodels: statistical modeling and econometrics in Python",
+                "homepage": "http://www.statsmodels.org/devel/",
                 "id": 1885237,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-27T18:27:55Z",
+                "open_issues": 2807,
                 "owner": "statsmodels",
                 "repo": "statsmodels",
-                "stars": 11595
+                "stars": 11598,
+                "topics": [
+                  "count-model",
+                  "data-analysis",
+                  "data-science",
+                  "econometrics",
+                  "forecasting",
+                  "generalized-linear-models",
+                  "hypothesis-testing",
+                  "prediction",
+                  "python",
+                  "regression-models",
+                  "robust-estimation",
+                  "statistics",
+                  "timeseries-analysis"
+                ]
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -2423,12 +3346,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bayesian Modeling and Probabilistic Programming in Python",
+                "homepage": "https://www.pymc.io",
                 "id": 192904,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T17:30:00Z",
+                "open_issues": 491,
                 "owner": "pymc-devs",
                 "repo": "pymc",
-                "stars": 9728
+                "stars": 9728,
+                "topics": [
+                  "bayesian-inference",
+                  "mcmc",
+                  "probabilistic-programming",
+                  "pytensor",
+                  "python",
+                  "statistical-analysis",
+                  "variational-inference"
+                ]
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -2439,12 +3375,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "ggplot port for python",
+                "homepage": "http://yhat.github.io/ggpy/",
                 "id": 13384593,
                 "language": "Python",
+                "license": "BSD-2-Clause",
                 "last_commit": "2023-01-21T20:19:13Z",
+                "open_issues": 178,
                 "owner": "yhat",
                 "repo": "ggpy",
-                "stars": 3687
+                "stars": 3687,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -2455,12 +3396,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A Python to Vega translator",
+                "homepage": null,
                 "id": 9360778,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2016-10-25T18:56:07Z",
+                "open_issues": 42,
                 "owner": "wrobstory",
                 "repo": "vincent",
-                "stars": 2020
+                "stars": 2020,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -2471,12 +3417,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a plottling library for python, based on D3",
+                "homepage": null,
                 "id": 2022403,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-12-28T08:18:14Z",
+                "open_issues": 48,
                 "owner": "mikedewar",
                 "repo": "d3py",
-                "stars": 1414
+                "stars": 1414,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -2487,12 +3438,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Business Intelligence (BI) in Python, OLAP",
+                "homepage": "https://github.com/mining/mining",
                 "id": 16182770,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2016-12-02T16:39:01Z",
+                "open_issues": 68,
                 "owner": "mining",
                 "repo": "mining",
-                "stars": 1284
+                "stars": 1283,
+                "topics": [
+                  "bi",
+                  "business-intelligence",
+                  "data-analytics",
+                  "olap",
+                  "olap-cube",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -2503,12 +3466,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "UNMAINTAINED! Renders beautiful SVG maps in Python.",
+                "homepage": "http://kartograph.org/docs/kartograph.py",
                 "id": 3186075,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-12-30T11:25:25Z",
+                "open_issues": 63,
                 "owner": "kartograph",
                 "repo": "kartograph.py",
-                "stars": 996
+                "stars": 996,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -2519,12 +3487,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A Python wrapper for Cascading",
+                "homepage": null,
                 "id": 2951102,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2019-12-30T06:57:34Z",
+                "open_issues": 30,
                 "owner": "twitter-archive",
                 "repo": "pycascading",
-                "stars": 220
+                "stars": 220,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             }
@@ -2533,12 +3506,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+            "homepage": null,
             "id": 21872392,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T15:29:10Z",
+            "open_issues": 29,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74199
+            "stars": 74202,
+            "topics": []
           },
           "title": "数据分析/数据可视化",
           "first_seen": "2026-08-28T19:24:46.044Z"
@@ -2552,12 +3530,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Recipes for using Python's pandas library",
+                "homepage": null,
                 "id": 15362532,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2024-10-24T02:01:47Z",
+                "open_issues": 33,
                 "owner": "jvns",
                 "repo": "pandas-cookbook",
-                "stars": 7111
+                "stars": 7111,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -2568,12 +3551,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex.",
+                "homepage": "http://numenta.org/",
                 "id": 9252533,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-12-03T17:50:20Z",
+                "open_issues": 465,
                 "owner": "numenta",
                 "repo": "nupic-legacy",
-                "stars": 6349
+                "stars": 6349,
+                "topics": [
+                  "artificial-intelligence",
+                  "hierarchical-temporal-memory",
+                  "machine-intelligence",
+                  "neocortex"
+                ]
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -2584,12 +3577,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of tutorials and examples for solving and understanding machine learning and pattern classification tasks",
+                "homepage": null,
                 "id": 18258282,
                 "language": "Jupyter Notebook",
+                "license": "GPL-3.0",
                 "last_commit": "2023-11-26T15:54:59Z",
+                "open_issues": 0,
                 "owner": "rasbt",
                 "repo": "pattern_classification",
-                "stars": 4210
+                "stars": 4210,
+                "topics": [
+                  "machine-learning",
+                  "machine-learning-algorithms",
+                  "pattern-classification"
+                ]
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -2600,12 +3602,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hyper-parameter optimization for sklearn",
+                "homepage": "hyperopt.github.io/hyperopt-sklearn",
                 "id": 8293893,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-04-15T17:15:54Z",
+                "open_issues": 78,
                 "owner": "hyperopt",
                 "repo": "hyperopt-sklearn",
-                "stars": 1648
+                "stars": 1648,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -2616,12 +3623,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Some sample IPython notebooks for scikit-learn",
+                "homepage": null,
                 "id": 2564982,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2026-05-04T16:28:13Z",
+                "open_issues": 3,
                 "owner": "ogrisel",
                 "repo": "notebooks",
-                "stars": 576
+                "stars": 576,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -2632,12 +3644,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Optimizers for machine learning",
+                "homepage": null,
                 "id": 2898706,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-01-16T10:49:46Z",
+                "open_issues": 22,
                 "owner": "BRML",
                 "repo": "climin",
-                "stars": 185
+                "stars": 185,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -2648,12 +3665,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Applied Machine Learning in Python with scikit-learn",
+                "homepage": "http://gaelvaroquaux.github.com/scikit-learn-tutorial/",
                 "id": 1987994,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2011-12-06T05:25:39Z",
+                "open_issues": 0,
                 "owner": "GaelVaroquaux",
                 "repo": "scikit-learn-tutorial",
-                "stars": 134
+                "stars": 134,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -2664,12 +3686,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bayesian Inference Tools in Python",
+                "homepage": null,
                 "id": 4641605,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2023-06-05T18:46:00Z",
+                "open_issues": 1,
                 "owner": "maxsklar",
                 "repo": "BayesPy",
-                "stars": 110
+                "stars": 110,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -2680,12 +3707,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Crab - A  recommendation engine library for Python",
+                "homepage": null,
                 "id": 977712,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2011-09-02T12:43:22Z",
+                "open_issues": 9,
                 "owner": "marcelcaraciolo",
                 "repo": "crab",
-                "stars": 88
+                "stars": 88,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -2696,12 +3728,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tweets Sentiment Analyzer",
+                "homepage": null,
                 "id": 3758866,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2012-03-30T16:29:09Z",
+                "open_issues": 0,
                 "owner": "madhusudancs",
                 "repo": "sentiment-analyzer",
-                "stars": 50
+                "stars": 50,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -2712,12 +3749,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 4135938,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2012-10-24T06:09:23Z",
+                "open_issues": 0,
                 "owner": "fabianp",
                 "repo": "group_lasso",
-                "stars": 39
+                "stars": 39,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -2728,12 +3770,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Homegrown analysis of Prospect Theory: Math, turkers and python =)",
+                "homepage": null,
                 "id": 20135361,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2015-03-02T21:16:13Z",
+                "open_issues": 1,
                 "owner": "CamDavidsonPilon",
                 "repo": "decision-weights",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -2744,12 +3791,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "IPython notebooks for EEG/MEG data processing using mne-python",
+                "homepage": null,
                 "id": 7850516,
                 "language": null,
+                "license": null,
                 "last_commit": "2016-04-10T10:27:19Z",
+                "open_issues": 0,
                 "owner": "mne-tools",
                 "repo": "mne-python-notebooks",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -2760,12 +3812,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Topic Modeling the Sarah Palin emails.",
+                "homepage": "http://blog.echen.me/2011/06/27/topic-modeling-the-sarah-palin-emails/",
                 "id": 18189146,
                 "language": "Scala",
+                "license": null,
                 "last_commit": "2011-07-09T19:07:19Z",
+                "open_issues": 0,
                 "owner": "wavelets",
                 "repo": "sarah-palin-lda",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -2776,12 +3833,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Text and supporting code for Think Stats, 2nd Edition",
+                "homepage": null,
                 "id": 21845742,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2014-07-14T21:00:32Z",
+                "open_issues": 0,
                 "owner": "wavelets",
                 "repo": "ThinkStats2",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -2792,12 +3854,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Paper source, analysis notebook, and data generation/analysis scripts for diginorm paper",
+                "homepage": null,
                 "id": 4331841,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2015-05-21T18:49:20Z",
+                "open_issues": 6,
                 "owner": "dib-lab",
                 "repo": "2012-paper-diginorm",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -2808,12 +3875,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of image segmentation algorithms based on diffusion methods",
+                "homepage": null,
                 "id": 18957746,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2010-08-26T05:35:16Z",
+                "open_issues": 0,
                 "owner": "wavelets",
                 "repo": "diffusion-segmentation",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -2824,12 +3896,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SciPy tutorials. This is outdated, check out scipy-lecture-notes",
+                "homepage": "http://scipy-lectures.github.com/",
                 "id": 18957754,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2010-05-19T21:23:12Z",
+                "open_issues": 0,
                 "owner": "wavelets",
                 "repo": "scipy-tutorials",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             }
@@ -2838,12 +3915,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+            "homepage": null,
             "id": 21872392,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T15:29:10Z",
+            "open_issues": 29,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74199
+            "stars": 74202,
+            "topics": []
           },
           "title": "杂项脚本/iPython笔记/代码库",
           "first_seen": "2026-08-28T19:24:46.044Z"
@@ -2857,12 +3939,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Winning solution for the Galaxy Challenge on Kaggle (http://www.kaggle.com/c/galaxy-zoo-the-galaxy-challenge)",
+                "homepage": null,
                 "id": 18795799,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2014-08-13T17:10:22Z",
+                "open_issues": 0,
                 "owner": "benanne",
                 "repo": "kaggle-galaxies",
-                "stars": 500
+                "stars": 500,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -2873,12 +3960,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Kaggle Submission for \"Detecting Insults in Social Commentary\"",
+                "homepage": null,
                 "id": 5913585,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2015-09-28T18:33:36Z",
+                "open_issues": 2,
                 "owner": "amueller",
                 "repo": "kaggle_insults",
-                "stars": 148
+                "stars": 148,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -2889,12 +3981,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep learning made easy",
+                "homepage": "http://fastml.com/deep-learning-made-easy/",
                 "id": 9817932,
                 "language": "Matlab",
+                "license": "MPL-2.0",
                 "last_commit": "2014-06-21T18:52:42Z",
+                "open_issues": 0,
                 "owner": "zygmuntz",
                 "repo": "kaggle-blackbox",
-                "stars": 116
+                "stars": 116,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -2905,12 +4002,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for Kaggle Dovs vs. Cats competition http://www.kaggle.com/c/dogs-vs-cats",
+                "homepage": null,
                 "id": 13744376,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-10-05T21:30:13Z",
+                "open_issues": 1,
                 "owner": "kastnerkyle",
                 "repo": "kaggle-dogs-vs-cats",
-                "stars": 65
+                "stars": 65,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -2921,12 +4023,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Predicting job salaries from ads - a Kaggle competition",
+                "homepage": "http://fastml.com/predicting-advertised-salaries/",
                 "id": 8320331,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2014-06-21T18:44:41Z",
+                "open_issues": 0,
                 "owner": "zygmuntz",
                 "repo": "kaggle-advertised-salaries",
-                "stars": 54
+                "stars": 54,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -2937,12 +4044,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for the CIFAR-10 competition at Kaggle, uses cuda-convnet",
+                "homepage": null,
                 "id": 14786601,
                 "language": "Python",
+                "license": "BSD-2-Clause",
                 "last_commit": "2014-06-21T18:49:49Z",
+                "open_issues": 0,
                 "owner": "zygmuntz",
                 "repo": "kaggle-cifar",
-                "stars": 44
+                "stars": 44,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -2953,12 +4065,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Predicting closed questions on Stack Overflow",
+                "homepage": "http://www.kaggle.com/c/predict-closed-questions-on-stack-overflow",
                 "id": 6093508,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2017-11-24T21:21:36Z",
+                "open_issues": 0,
                 "owner": "zygmuntz",
                 "repo": "kaggle-stackoverflow",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -2969,12 +4086,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Predicting wine quality",
+                "homepage": "http://fastml.com/predicting-wine-quality/",
                 "id": 7192369,
                 "language": "R",
+                "license": "Artistic-2.0",
                 "last_commit": "2015-09-03T17:38:39Z",
+                "open_issues": 2,
                 "owner": "zygmuntz",
                 "repo": "wine-quality",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -2985,12 +4107,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Amazon access control challenge",
+                "homepage": null,
                 "id": 10436442,
                 "language": "Python",
+                "license": "MPL-2.0",
                 "last_commit": "2014-06-21T19:05:22Z",
+                "open_issues": 0,
                 "owner": "zygmuntz",
                 "repo": "kaggle-amazon",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -3001,12 +4128,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Kaggle competition: discriminate gender based on handwriting",
+                "homepage": "http://fastml.com/gender-discrimination/",
                 "id": 9356487,
                 "language": "Python",
+                "license": "Artistic-2.0",
                 "last_commit": "2014-06-21T19:08:45Z",
+                "open_issues": 0,
                 "owner": "zygmuntz",
                 "repo": "kaggle-gender",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -3017,12 +4149,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for Accelerometer Biometric Competition at Kaggle",
+                "homepage": "http://fastml.com/accelerometer-biometric-competition/",
                 "id": 11818332,
                 "language": "Python",
+                "license": "CC0-1.0",
                 "last_commit": "2014-06-21T19:02:38Z",
+                "open_issues": 0,
                 "owner": "zygmuntz",
                 "repo": "kaggle-accelerometer",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -3033,12 +4170,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An implementation of Dell Zhang's solution to Wikipedia's Participation Challenge on Kaggle",
+                "homepage": null,
                 "id": 2825572,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2011-11-23T21:57:13Z",
+                "open_issues": 0,
                 "owner": "hammer",
                 "repo": "wikichallenge",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -3049,12 +4191,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Merck challenge at Kaggle",
+                "homepage": "http://fastml.com/merck-challenge/",
                 "id": 6252325,
                 "language": "Python",
+                "license": "LGPL-3.0",
                 "last_commit": "2014-06-21T19:12:43Z",
+                "open_issues": 0,
                 "owner": "zygmuntz",
                 "repo": "kaggle-merck",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -3065,12 +4212,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for the Best Buy competition at Kaggle",
+                "homepage": " http://fastml.com/best-buy-mobile-contest-big-data/",
                 "id": 5873123,
                 "language": "Python",
+                "license": "MPL-2.0",
                 "last_commit": "2014-06-21T19:10:22Z",
+                "open_issues": 0,
                 "owner": "zygmuntz",
                 "repo": "kaggle-bestbuy_big",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -3081,12 +4233,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 5844939,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2014-06-21T19:11:09Z",
+                "open_issues": 0,
                 "owner": "zygmuntz",
                 "repo": "kaggle-bestbuy_small",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             }
@@ -3095,12 +4252,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+            "homepage": null,
             "id": 21872392,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T15:29:10Z",
+            "open_issues": 29,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74199
+            "stars": 74202,
+            "topics": []
           },
           "title": "Kaggle竞赛源代码",
           "first_seen": "2026-08-28T19:24:46.044Z"
@@ -3120,12 +4282,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Natural language processing framework for Ruby.",
+                "homepage": null,
                 "id": 3252442,
                 "language": "Ruby",
+                "license": "NOASSERTION",
                 "last_commit": "2025-05-16T03:25:32Z",
+                "open_issues": 35,
                 "owner": "louismullie",
                 "repo": "treat",
-                "stars": 1367
+                "stars": 1367,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -3136,12 +4303,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A library that does auto linking and extraction of usernames, lists and hashtags in tweets",
+                "homepage": null,
                 "id": 1133729,
                 "language": null,
+                "license": null,
                 "last_commit": "2014-12-13T16:44:46Z",
+                "open_issues": 11,
                 "owner": "twitter-archive",
                 "repo": "twitter-text-rb",
-                "stars": 607
+                "stars": 607,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -3152,12 +4324,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Expose libstemmer_c to Ruby",
+                "homepage": "http://locknet.ro/archive/2009-10-29-ann-ruby-stemmer.html",
                 "id": 66944,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2022-05-12T10:57:26Z",
+                "open_issues": 7,
                 "owner": "aurelian",
                 "repo": "ruby-stemmer",
-                "stars": 249
+                "stars": 249,
+                "topics": [
+                  "c",
+                  "ruby",
+                  "ruby-extension",
+                  "rubynpl",
+                  "stemmer"
+                ]
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -3168,12 +4351,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ruby port of UEALite Stemmer - a conservative stemmer for search and indexing",
+                "homepage": "http://www.uea.ac.uk/cmp/research/graphicsvisionspeech/speech/WordStemming",
                 "id": 251807,
                 "language": "Ruby",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-21T12:26:14Z",
+                "open_issues": 0,
                 "owner": "ealdent",
                 "repo": "uea-stemmer",
-                "stars": 55
+                "stars": 55,
+                "topics": [
+                  "ruby",
+                  "rubynlp"
+                ]
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             }
@@ -3182,12 +4373,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+            "homepage": null,
             "id": 21872392,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T15:29:10Z",
+            "open_issues": 29,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74199
+            "stars": 74202,
+            "topics": []
           },
           "title": "自然语言处理",
           "first_seen": "2026-08-28T19:24:46.044Z"
@@ -3201,12 +4397,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code samples for my book \"Neural Networks and Deep Learning\"",
+                "homepage": null,
                 "id": 6671099,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-06-02T11:18:37Z",
+                "open_issues": 7,
                 "owner": "mnielsen",
                 "repo": "neural-networks-and-deep-learning",
-                "stars": 17894
+                "stars": 17897,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -3217,12 +4418,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A general classifier module to allow Bayesian and LSI classifications.",
+                "homepage": null,
                 "id": 14702,
                 "language": "Ruby",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-15T18:10:06Z",
+                "open_issues": 9,
                 "owner": "cardmagic",
                 "repo": "classifier",
-                "stars": 741
+                "stars": 741,
+                "topics": [
+                  "classification",
+                  "classification-algorithm",
+                  "machine-learning",
+                  "machine-learning-algorithms",
+                  "machinelearning"
+                ]
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -3233,12 +4445,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JRuby Mahout is a gem that unleashes the power of Apache Mahout in the world of JRuby.",
+                "homepage": null,
                 "id": 6712859,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2015-09-21T00:47:45Z",
+                "open_issues": 3,
                 "owner": "vasinov",
                 "repo": "jruby_mahout",
-                "stars": 165
+                "stars": 165,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -3249,12 +4466,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Some Machine Learning algorithms, implemented in Ruby",
+                "homepage": null,
                 "id": 3136923,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2012-01-10T22:55:25Z",
+                "open_issues": 0,
                 "owner": "tsycho",
                 "repo": "ruby-machine-learning",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -3265,12 +4487,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 5699978,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2012-09-06T09:18:33Z",
+                "open_issues": 0,
                 "owner": "mizoR",
                 "repo": "machine-learning-ruby",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             }
@@ -3279,12 +4506,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+            "homepage": null,
             "id": 21872392,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T15:29:10Z",
+            "open_issues": 29,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74199
+            "stars": 74202,
+            "topics": []
           },
           "title": "通用机器学习",
           "first_seen": "2026-08-28T19:24:46.044Z"
@@ -3298,12 +4530,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "bioruby",
+                "homepage": "http://bioruby.open-bio.org",
                 "id": 26343,
                 "language": "Ruby",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-02T10:18:12Z",
+                "open_issues": 15,
                 "owner": "bioruby",
                 "repo": "bioruby",
-                "stars": 383
+                "stars": 383,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -3314,12 +4551,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ruby - R bridge.",
+                "homepage": "http://rubyforge.org/projects/rsruby/",
                 "id": 74368,
                 "language": "Ruby",
+                "license": "LGPL-2.1",
                 "last_commit": "2018-10-06T17:17:14Z",
+                "open_issues": 15,
                 "owner": "alexgutteridge",
                 "repo": "rsruby",
-                "stars": 334
+                "stars": 334,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -3330,12 +4572,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Relational Algebra",
+                "homepage": null,
                 "id": 3160,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2009-05-21T04:06:11Z",
+                "open_issues": 7,
                 "owner": "nkallen",
                 "repo": "arel",
-                "stars": 271
+                "stars": 271,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -3346,12 +4593,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A data management tool for humans",
+                "homepage": "http://github.com/glean",
                 "id": 9060994,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2016-10-31T14:38:28Z",
+                "open_issues": 2,
                 "owner": "glean",
                 "repo": "glean",
-                "stars": 119
+                "stars": 119,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -3362,12 +4614,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Source code and supporting content for my Ruby Manor presentation on Data Visualisation with Ruby",
+                "homepage": null,
                 "id": 402458,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2009-12-22T11:00:58Z",
+                "open_issues": 0,
                 "owner": "chrislo",
                 "repo": "data_visualisation_ruby",
-                "stars": 67
+                "stars": 67,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -3378,12 +4635,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A plotting library in Ruby built on top of Vega and D3.",
+                "homepage": null,
                 "id": 10708946,
                 "language": "Ruby",
+                "license": "NOASSERTION",
                 "last_commit": "2025-06-22T16:18:46Z",
+                "open_issues": 3,
                 "owner": "zuhao",
                 "repo": "plotrb",
-                "stars": 41
+                "stars": 41,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             }
@@ -3392,12 +4654,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+            "homepage": null,
             "id": 21872392,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T15:29:10Z",
+            "open_issues": 29,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74199
+            "stars": 74202,
+            "topics": []
           },
           "title": "数据分析/数据可视化",
           "first_seen": "2026-08-28T19:24:46.044Z"
@@ -3411,12 +4678,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Seriously Fun guide to Big Data Analytics in Practice",
+                "homepage": "http://infochimps.com/labs",
                 "id": 3744625,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2015-06-15T17:17:02Z",
+                "open_issues": 10,
                 "owner": "infochimps-labs",
                 "repo": "big_data_for_chimps",
-                "stars": 169
+                "stars": 169,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             }
@@ -3425,12 +4697,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+            "homepage": null,
             "id": 21872392,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T15:29:10Z",
+            "open_issues": 29,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74199
+            "stars": 74202,
+            "topics": []
           },
           "title": "Misc 杂项",
           "first_seen": "2026-08-28T19:24:46.044Z"
@@ -3450,12 +4727,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code accompanying the book \"Machine Learning for Hackers\"",
+                "homepage": "http://shop.oreilly.com/product/0636920018483.do",
                 "id": 3403779,
                 "language": "R",
+                "license": null,
                 "last_commit": "2019-05-26T16:52:29Z",
+                "open_issues": 36,
                 "owner": "johnmyleswhite",
                 "repo": "ML_for_Hackers",
-                "stars": 3729
+                "stars": 3729,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -3466,12 +4748,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Current version of the SuperLearner R package",
+                "homepage": null,
                 "id": 1622048,
                 "language": "R",
+                "license": null,
                 "last_commit": "2026-08-16T01:39:12Z",
+                "open_issues": 20,
                 "owner": "ecpolley",
                 "repo": "SuperLearner",
-                "stars": 294
+                "stars": 294,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -3482,12 +4769,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Defunct",
+                "homepage": null,
                 "id": 1336015,
                 "language": null,
+                "license": null,
                 "last_commit": "2017-06-29T07:34:33Z",
+                "open_issues": 2,
                 "owner": "Jason2Brownlee",
                 "repo": "CleverAlgorithmsMachineLearning",
-                "stars": 240
+                "stars": 240,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             }
@@ -3496,12 +4788,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+            "homepage": null,
             "id": 21872392,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T15:29:10Z",
+            "open_issues": 29,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74199
+            "stars": 74202,
+            "topics": []
           },
           "title": "通用机器学习",
           "first_seen": "2026-08-28T19:24:46.044Z"
@@ -3521,12 +4818,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Breeze is/was a numerical processing library for Scala.",
+                "homepage": "https://www.scalanlp.org",
                 "id": 246644,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2025-10-04T22:40:06Z",
+                "open_issues": 89,
                 "owner": "scalanlp",
                 "repo": "breeze",
-                "stars": 3453
+                "stars": 3453,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -3537,12 +4839,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FACTORIE is a toolkit for deployable probabilistic modeling, implemented as a software library in Scala. It provides its users with a succinct language for creating relational factor graphs, estimating parameters and performing inference.",
+                "homepage": null,
                 "id": 10924885,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2017-12-19T16:36:45Z",
+                "open_issues": 26,
                 "owner": "factorie",
                 "repo": "factorie",
-                "stars": 553
+                "stars": 553,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -3553,12 +4860,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Chalk is a natural language processing library.",
+                "homepage": null,
                 "id": 6963649,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2017-01-30T17:32:44Z",
+                "open_issues": 7,
                 "owner": "scalanlp",
                 "repo": "chalk",
-                "stars": 260
+                "stars": 260,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             }
@@ -3567,12 +4879,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+            "homepage": null,
             "id": 21872392,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T15:29:10Z",
+            "open_issues": 29,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74199
+            "stars": 74202,
+            "topics": []
           },
           "title": "自然语言处理",
           "first_seen": "2026-08-28T19:24:46.044Z"
@@ -3586,12 +4903,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "PredictionIO, a machine learning server for developers and ML engineers.",
+                "homepage": "https://predictionio.apache.org",
                 "id": 7827081,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2021-01-09T10:30:58Z",
+                "open_issues": 80,
                 "owner": "apache",
                 "repo": "predictionio",
-                "stars": 12517
+                "stars": 12517,
+                "topics": [
+                  "big-data",
+                  "predictionio",
+                  "scala"
+                ]
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -3602,12 +4928,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Scala API for Cascading",
+                "homepage": "http://twitter.com/scalding",
                 "id": 3146558,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2023-05-28T19:18:59Z",
+                "open_issues": 317,
                 "owner": "twitter",
                 "repo": "scalding",
-                "stars": 3523
+                "stars": 3523,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -3618,12 +4949,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Abstract Algebra for Scala",
+                "homepage": "https://twitter.github.io/algebird",
                 "id": 5275507,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2025-11-21T04:01:23Z",
+                "open_issues": 117,
                 "owner": "twitter",
                 "repo": "algebird",
-                "stars": 2295
+                "stars": 2295,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -3634,12 +4970,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Streaming MapReduce with Scalding and Storm",
+                "homepage": "https://twitter.com/summingbird",
                 "id": 5957708,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2022-01-19T17:31:02Z",
+                "open_issues": 162,
                 "owner": "twitter",
                 "repo": "summingbird",
-                "stars": 2123
+                "stars": 2123,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -3650,12 +4991,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A CPU and GPU-accelerated matrix library for data mining",
+                "homepage": null,
                 "id": 6270220,
                 "language": "Scala",
+                "license": "BSD-3-Clause",
                 "last_commit": "2021-02-25T06:22:10Z",
+                "open_issues": 23,
                 "owner": "BIDData",
                 "repo": "BIDMat",
-                "stars": 269
+                "stars": 269,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -3666,12 +5012,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reduce your data. A unix filter for algebird-powered aggregation.",
+                "homepage": null,
                 "id": 9155955,
                 "language": "Scala",
+                "license": null,
                 "last_commit": "2017-04-17T03:53:10Z",
+                "open_issues": 9,
                 "owner": "avibryant",
                 "repo": "simmer",
-                "stars": 140
+                "stars": 140,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -3682,12 +5033,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Data management utilities for Scala",
+                "homepage": null,
                 "id": 4920389,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2016-12-13T18:07:43Z",
+                "open_issues": 1,
                 "owner": "xerial",
                 "repo": "xerial",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             }
@@ -3696,12 +5052,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+            "homepage": null,
             "id": 21872392,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T15:29:10Z",
+            "open_issues": 29,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74199
+            "stars": 74202,
+            "topics": []
           },
           "title": "数据分析/数据可视化",
           "first_seen": "2026-08-28T19:24:46.044Z"
@@ -3715,12 +5076,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ADAM is a genomics analysis platform with specialized file formats built using Apache Avro, Apache Spark, and Apache Parquet. Apache 2 licensed.",
+                "homepage": null,
                 "id": 14541530,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-17T20:10:53Z",
+                "open_issues": 43,
                 "owner": "bigdatagenomics",
                 "repo": "adam",
-                "stars": 1057
+                "stars": 1057,
+                "topics": [
+                  "avro",
+                  "big-data",
+                  "bioinformatics",
+                  "genomics",
+                  "java",
+                  "parquet",
+                  "python",
+                  "r",
+                  "scala",
+                  "spark"
+                ]
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -3731,12 +5108,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CPU and GPU-accelerated Machine Learning Library",
+                "homepage": null,
                 "id": 6328806,
                 "language": "Scala",
+                "license": "BSD-3-Clause",
                 "last_commit": "2022-10-04T23:35:03Z",
+                "open_issues": 67,
                 "owner": "BIDData",
                 "repo": "BIDMach",
-                "stars": 920
+                "stars": 920,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -3747,12 +5129,19 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Scalable Machine Learning in Scalding",
+                "homepage": null,
                 "id": 20925364,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2018-02-16T15:05:59Z",
+                "open_issues": 0,
                 "owner": "etsy",
                 "repo": "Conjecture",
-                "stars": 359
+                "stars": 359,
+                "topics": [
+                  "non-sox"
+                ]
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -3763,12 +5152,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bioinformatics for the Scala programming language",
+                "homepage": null,
                 "id": 626044,
                 "language": "Scala",
+                "license": "NOASSERTION",
                 "last_commit": "2025-08-24T15:35:33Z",
+                "open_issues": 4,
                 "owner": "bioscala",
                 "repo": "bioscala",
-                "stars": 115
+                "stars": 115,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             },
@@ -3779,12 +5173,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "scalding powered machine learning",
+                "homepage": null,
                 "id": 12273832,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2014-11-18T23:47:01Z",
+                "open_issues": 0,
                 "owner": "tresata",
                 "repo": "ganitha",
-                "stars": 109
+                "stars": 109,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
             }
@@ -3793,12 +5192,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+            "homepage": null,
             "id": 21872392,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T15:29:10Z",
+            "open_issues": 29,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74199
+            "stars": 74202,
+            "topics": []
           },
           "title": "通用机器学习",
           "first_seen": "2026-08-28T19:24:46.044Z"
@@ -3808,15 +5212,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T19:24:46.044Z",
+    "last_updated": "2026-08-29T04:18:56.451Z",
     "original_repository_info": {
       "archived": false,
+      "description": "机器学习资源大全中文版，包括机器学习领域的框架、库以及软件",
+      "homepage": null,
       "id": 45461779,
       "language": null,
+      "license": null,
       "last_commit": "2024-04-03T12:20:23Z",
+      "open_issues": 4,
       "owner": "jobbole",
       "repo": "awesome-machine-learning-cn",
-      "stars": 4484
+      "stars": 4484,
+      "topics": []
     },
     "original_repository_sha": "328b9c33ecb2827766e0a56dff810308efebdeb9",
     "enhanced_repository": "enhansome/enhansome-machine-learning-cn",
