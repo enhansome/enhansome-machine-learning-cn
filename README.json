@@ -17,7 +17,7 @@
                 "id": 912896,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-28T02:20:32Z",
+                "last_commit": "2026-10-05T05:31:54Z",
                 "open_issues": 80,
                 "owner": "liuliu",
                 "repo": "ccv",
@@ -40,7 +40,7 @@
             "open_issues": 20,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74518,
+            "stars": 74520,
             "topics": []
           },
           "title": "计算机视觉",
@@ -61,7 +61,7 @@
             "open_issues": 20,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74518,
+            "stars": 74520,
             "topics": []
           },
           "title": "通用机器学习",
@@ -131,7 +131,7 @@
             "open_issues": 20,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74518,
+            "stars": 74520,
             "topics": []
           },
           "title": "自然语言处理",
@@ -155,7 +155,7 @@
                 "open_issues": 89,
                 "owner": "sjwhitworth",
                 "repo": "golearn",
-                "stars": 9435,
+                "stars": 9433,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
@@ -237,7 +237,7 @@
             "open_issues": 20,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74518,
+            "stars": 74520,
             "topics": []
           },
           "title": "通用机器学习",
@@ -280,7 +280,7 @@
             "open_issues": 20,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74518,
+            "stars": 74520,
             "topics": []
           },
           "title": "数据分析/数据可视化",
@@ -329,7 +329,7 @@
             "open_issues": 20,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74518,
+            "stars": 74520,
             "topics": []
           },
           "title": "自然语言处理",
@@ -379,7 +379,7 @@
             "open_issues": 20,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74518,
+            "stars": 74520,
             "topics": []
           },
           "title": "通用机器学习",
@@ -399,11 +399,11 @@
                 "id": 17165658,
                 "language": "Scala",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-04T07:35:56Z",
-                "open_issues": 597,
+                "last_commit": "2026-10-05T15:23:03Z",
+                "open_issues": 595,
                 "owner": "apache",
                 "repo": "spark",
-                "stars": 44117,
+                "stars": 44124,
                 "topics": [
                   "big-data",
                   "java",
@@ -475,7 +475,7 @@
             "open_issues": 20,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74518,
+            "stars": 74520,
             "topics": []
           },
           "title": "数据分析/数据可视化",
@@ -505,7 +505,7 @@
                 "open_issues": 88,
                 "owner": "NaturalNode",
                 "repo": "natural",
-                "stars": 10881,
+                "stars": 10882,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
@@ -587,7 +587,7 @@
             "open_issues": 20,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74518,
+            "stars": 74520,
             "topics": []
           },
           "title": "自然语言处理",
@@ -608,7 +608,7 @@
             "open_issues": 20,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74518,
+            "stars": 74520,
             "topics": []
           },
           "title": "数据分析/数据可视化",
@@ -834,7 +834,7 @@
             "open_issues": 20,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74518,
+            "stars": 74520,
             "topics": []
           },
           "title": "通用机器学习",
@@ -892,7 +892,7 @@
                 "open_issues": 54,
                 "owner": "JuliaStats",
                 "repo": "MixedModels.jl",
-                "stars": 451,
+                "stars": 452,
                 "topics": [
                   "julia",
                   "mixed-effects",
@@ -1310,7 +1310,7 @@
             "open_issues": 20,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74518,
+            "stars": 74520,
             "topics": []
           },
           "title": "通用机器学习",
@@ -1374,7 +1374,7 @@
             "open_issues": 20,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74518,
+            "stars": 74520,
             "topics": []
           },
           "title": "自然语言处理",
@@ -1398,7 +1398,7 @@
                 "open_issues": 276,
                 "owner": "GiovineItalia",
                 "repo": "Gadfly.jl",
-                "stars": 1927,
+                "stars": 1928,
                 "topics": [
                   "gadfly",
                   "ggplot2",
@@ -1422,7 +1422,7 @@
                 "id": 4992873,
                 "language": "Julia",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-17T08:59:22Z",
+                "last_commit": "2026-10-05T08:31:55Z",
                 "open_issues": 160,
                 "owner": "JuliaData",
                 "repo": "DataFrames.jl",
@@ -1477,7 +1477,7 @@
                 "id": 16530347,
                 "language": "Julia",
                 "license": "NOASSERTION",
-                "last_commit": "2026-07-25T19:04:32Z",
+                "last_commit": "2026-10-04T22:10:31Z",
                 "open_issues": 41,
                 "owner": "JuliaData",
                 "repo": "DataFramesMeta.jl",
@@ -1688,7 +1688,7 @@
             "open_issues": 20,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74518,
+            "stars": 74520,
             "topics": []
           },
           "title": "数据分析/数据可视化",
@@ -1712,7 +1712,7 @@
                 "open_issues": 44,
                 "owner": "JuliaImages",
                 "repo": "Images.jl",
-                "stars": 550,
+                "stars": 551,
                 "topics": [
                   "image-processing",
                   "julia"
@@ -1776,7 +1776,7 @@
             "open_issues": 20,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74518,
+            "stars": 74520,
             "topics": []
           },
           "title": "杂项/演示文稿",
@@ -2294,7 +2294,7 @@
             "open_issues": 20,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74518,
+            "stars": 74520,
             "topics": []
           },
           "title": "通用机器学习",
@@ -2400,7 +2400,7 @@
             "open_issues": 20,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74518,
+            "stars": 74520,
             "topics": []
           },
           "title": "演示及脚本",
@@ -2427,7 +2427,7 @@
             "open_issues": 20,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74518,
+            "stars": 74520,
             "topics": []
           },
           "title": "计算机视觉",
@@ -2448,7 +2448,7 @@
             "open_issues": 20,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74518,
+            "stars": 74520,
             "topics": []
           },
           "title": "自然语言处理",
@@ -2512,7 +2512,7 @@
             "open_issues": 20,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74518,
+            "stars": 74520,
             "topics": []
           },
           "title": "通用机器学习",
@@ -2533,7 +2533,7 @@
             "open_issues": 20,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74518,
+            "stars": 74520,
             "topics": []
           },
           "title": "数据分析/数据可视化",
@@ -2560,7 +2560,7 @@
             "open_issues": 20,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74518,
+            "stars": 74520,
             "topics": []
           },
           "title": "计算机视觉",
@@ -2608,7 +2608,7 @@
             "open_issues": 20,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74518,
+            "stars": 74520,
             "topics": []
           },
           "title": "自然语言处理",
@@ -2651,7 +2651,7 @@
             "open_issues": 20,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74518,
+            "stars": 74520,
             "topics": []
           },
           "title": "通用机器学习",
@@ -2672,7 +2672,7 @@
             "open_issues": 20,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74518,
+            "stars": 74520,
             "topics": []
           },
           "title": "数据分析/数据可视化",
@@ -2702,7 +2702,7 @@
                 "open_issues": 700,
                 "owner": "fxsjy",
                 "repo": "jieba",
-                "stars": 35175,
+                "stars": 35177,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
@@ -2805,7 +2805,7 @@
             "open_issues": 20,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74518,
+            "stars": 74520,
             "topics": []
           },
           "title": "自然语言处理",
@@ -2829,7 +2829,7 @@
                 "open_issues": 440,
                 "owner": "piskvorky",
                 "repo": "gensim",
-                "stars": 16497,
+                "stars": 16498,
                 "topics": [
                   "data-mining",
                   "data-science",
@@ -2970,7 +2970,7 @@
                 "open_issues": 201,
                 "owner": "lisa-lab",
                 "repo": "pylearn2",
-                "stars": 2766,
+                "stars": 2765,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
@@ -3030,7 +3030,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-02T14:45:01Z",
-                "open_issues": 281,
+                "open_issues": 280,
                 "owner": "nilearn",
                 "repo": "nilearn",
                 "stars": 1443,
@@ -3209,7 +3209,7 @@
             "open_issues": 20,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74518,
+            "stars": 74520,
             "topics": []
           },
           "title": "通用机器学习",
@@ -3229,8 +3229,8 @@
                 "id": 3834332,
                 "language": "TypeScript",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-03T18:49:00Z",
-                "open_issues": 845,
+                "last_commit": "2026-10-05T14:25:09Z",
+                "open_issues": 842,
                 "owner": "bokeh",
                 "repo": "bokeh",
                 "stars": 20455,
@@ -3289,11 +3289,11 @@
                 "id": 640534,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-04T01:29:48Z",
-                "open_issues": 6024,
+                "last_commit": "2026-10-05T04:38:31Z",
+                "open_issues": 6025,
                 "owner": "sympy",
                 "repo": "sympy",
-                "stars": 14988,
+                "stars": 14992,
                 "topics": [
                   "computer-algebra",
                   "hacktoberfest",
@@ -3316,11 +3316,11 @@
                 "id": 1885237,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-04T08:31:03Z",
-                "open_issues": 2817,
+                "last_commit": "2026-10-05T15:17:44Z",
+                "open_issues": 2800,
                 "owner": "statsmodels",
                 "repo": "statsmodels",
-                "stars": 11669,
+                "stars": 11672,
                 "topics": [
                   "count-model",
                   "data-analysis",
@@ -3355,7 +3355,7 @@
                 "open_issues": 518,
                 "owner": "pymc-devs",
                 "repo": "pymc",
-                "stars": 9791,
+                "stars": 9795,
                 "topics": [
                   "bayesian-inference",
                   "mcmc",
@@ -3515,7 +3515,7 @@
             "open_issues": 20,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74518,
+            "stars": 74520,
             "topics": []
           },
           "title": "数据分析/数据可视化",
@@ -3539,7 +3539,7 @@
                 "open_issues": 33,
                 "owner": "jvns",
                 "repo": "pandas-cookbook",
-                "stars": 7120,
+                "stars": 7119,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
@@ -3586,7 +3586,7 @@
                 "open_issues": 0,
                 "owner": "rasbt",
                 "repo": "pattern_classification",
-                "stars": 4209,
+                "stars": 4211,
                 "topics": [
                   "machine-learning",
                   "machine-learning-algorithms",
@@ -3924,7 +3924,7 @@
             "open_issues": 20,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74518,
+            "stars": 74520,
             "topics": []
           },
           "title": "杂项脚本/iPython笔记/代码库",
@@ -4261,7 +4261,7 @@
             "open_issues": 20,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74518,
+            "stars": 74520,
             "topics": []
           },
           "title": "Kaggle竞赛源代码",
@@ -4382,7 +4382,7 @@
             "open_issues": 20,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74518,
+            "stars": 74520,
             "topics": []
           },
           "title": "自然语言处理",
@@ -4406,7 +4406,7 @@
                 "open_issues": 7,
                 "owner": "mnielsen",
                 "repo": "neural-networks-and-deep-learning",
-                "stars": 17973,
+                "stars": 17974,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:46.044Z"
@@ -4515,7 +4515,7 @@
             "open_issues": 20,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74518,
+            "stars": 74520,
             "topics": []
           },
           "title": "通用机器学习",
@@ -4663,7 +4663,7 @@
             "open_issues": 20,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74518,
+            "stars": 74520,
             "topics": []
           },
           "title": "数据分析/数据可视化",
@@ -4706,7 +4706,7 @@
             "open_issues": 20,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74518,
+            "stars": 74520,
             "topics": []
           },
           "title": "Misc 杂项",
@@ -4797,7 +4797,7 @@
             "open_issues": 20,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74518,
+            "stars": 74520,
             "topics": []
           },
           "title": "通用机器学习",
@@ -4888,7 +4888,7 @@
             "open_issues": 20,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74518,
+            "stars": 74520,
             "topics": []
           },
           "title": "自然语言处理",
@@ -5061,7 +5061,7 @@
             "open_issues": 20,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74518,
+            "stars": 74520,
             "topics": []
           },
           "title": "数据分析/数据可视化",
@@ -5138,7 +5138,7 @@
                 "open_issues": 0,
                 "owner": "etsy",
                 "repo": "Conjecture",
-                "stars": 358,
+                "stars": 357,
                 "topics": [
                   "non-sox"
                 ]
@@ -5201,7 +5201,7 @@
             "open_issues": 20,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74518,
+            "stars": 74520,
             "topics": []
           },
           "title": "通用机器学习",
@@ -5212,7 +5212,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T13:10:01.256Z",
+    "last_updated": "2026-10-05T15:57:16.057Z",
     "original_repository_info": {
       "archived": false,
       "description": "机器学习资源大全中文版，包括机器学习领域的框架、库以及软件",
@@ -5224,7 +5224,7 @@
       "open_issues": 4,
       "owner": "jobbole",
       "repo": "awesome-machine-learning-cn",
-      "stars": 4502,
+      "stars": 4504,
       "topics": []
     },
     "original_repository_sha": "328b9c33ecb2827766e0a56dff810308efebdeb9",
