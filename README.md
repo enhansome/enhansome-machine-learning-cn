@@ -118,7 +118,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 #### [](https://github.com/josephmisiti/awesome-machine-learning/blob/master/README.md#data-analysis--data-visualization-1) ⭐ 74,531 | 🐛 20 | 🌐 Python | 📅 2026-09-30数据分析/数据可视化
 
-* Spark：快速通用的大规模数据处理引擎。[官网](https://github.com/apache/spark) ⭐ 44,130 | 🐛 599 | 🌐 Scala | 📅 2026-10-06
+* Spark：快速通用的大规模数据处理引擎。[官网](https://github.com/apache/spark) ⭐ 44,130 | 🐛 596 | 🌐 Scala | 📅 2026-10-06
 * Hadoop：大数据分析平台。[官网](https://github.com/apache/hadoop-mapreduce) ⚠️ Archived
 * Impala：为Hadoop实现实时查询。[官网](https://github.com/cloudera/impala) ⭐ 34 | 🐛 28 | 🌐 C++ | 📅 2022-12-27
 
@@ -161,7 +161,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 * GLM：Julia写的广义线性模型包。[官网](https://github.com/JuliaStats/GLM.jl) ⭐ 637 | 🐛 83 | 🌐 Julia | 📅 2026-09-19
 * Mixed Models：（统计）混合效应模型的Julia包。[官网](https://github.com/dmbates/MixedModels.jl) ⭐ 452 | 🐛 54 | 🌐 Julia | 📅 2026-10-02
-* Clustering：k-means, dp-means等数据聚类的基本函数。[官网](https://github.com/JuliaStats/Clustering.jl) ⭐ 377 | 🐛 47 | 🌐 Julia | 📅 2025-11-24
+* Clustering：k-means, dp-means等数据聚类的基本函数。[官网](https://github.com/JuliaStats/Clustering.jl) ⭐ 377 | 🐛 48 | 🌐 Julia | 📅 2025-11-24
 * Kernal Density：Julia下的核密度估计器。[官网](https://github.com/JuliaStats/KernelDensity.jl) ⭐ 212 | 🐛 35 | 🌐 Julia | 📅 2026-06-22
 * Local Regression：局部回归，非常平滑！。[官网](https://github.com/dcjones/Loess.jl) ⭐ 115 | 🐛 11 | 🌐 Julia | 📅 2026-06-23
 * GLMNet：GMLNet的Julia包装版，适合套索/弹性网模型。[官网](https://github.com/simonster/GLMNet.jl) ⭐ 105 | 🐛 16 | 🌐 Julia | 📅 2026-06-24
@@ -355,7 +355,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * Pylearn2：基于Theano的机器学习库。[官网](https://github.com/lisa-lab/pylearn2) ⭐ 2,765 | 🐛 201 | 🌐 Python | 📅 2021-08-20
 * thinking bayes：关于贝叶斯分析的书籍。[官网](https://github.com/AllenDowney/ThinkBayes) ⭐ 1,703 | 🐛 12 | 🌐 TeX | 📅 2021-03-12
 * python-recsys：Python实现的推荐系统。[官网](https://github.com/ocelma/python-recsys) ⭐ 1,481 | 🐛 9 | 🌐 Python | 📅 2020-12-29
-* nilearn：Python实现的神经影像学机器学习库。[官网](https://github.com/nilearn/nilearn) ⭐ 1,443 | 🐛 280 | 🌐 Python | 📅 2026-10-06
+* nilearn：Python实现的神经影像学机器学习库。[官网](https://github.com/nilearn/nilearn) ⭐ 1,443 | 🐛 277 | 🌐 Python | 📅 2026-10-06
 * Crab：可扩展的、快速推荐引擎。[官网](https://github.com/muricoca/crab) ⭐ 1,176 | 🐛 46 | 🌐 Python | 📅 2020-12-30
 * hebel：Python编写的使用GPU加速的深度学习库。[官网](https://github.com/hannes-brt/hebel) ⭐ 1,169 | 🐛 6 | 🌐 Python | 📅 2020-12-29
 * Restricted Boltzmann Machines：Python实现的受限波尔兹曼机。[官网](https://github.com/echen/restricted-boltzmann-machines) ⭐ 969 | 🐛 6 | 🌐 Python | 📅 2020-04-01
@@ -373,10 +373,10 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 #### [](https://github.com/josephmisiti/awesome-machine-learning/blob/master/README.md#data-analysis--data-visualization-5) ⭐ 74,531 | 🐛 20 | 🌐 Python | 📅 2026-09-30数据分析/数据可视化
 
 * bokeh：Python的交互式Web绘图库。[官网](https://github.com/ContinuumIO/bokeh) ⭐ 20,454 | 🐛 844 | 🌐 TypeScript | 📅 2026-10-05
-* zipline：Python的算法交易库。[官网](https://github.com/quantopian/zipline) ⭐ 20,138 | 🐛 367 | 🌐 Python | 📅 2024-02-13
-* SymPy：符号数学Python库。[官网](https://github.com/sympy/sympy) ⭐ 14,992 | 🐛 6,030 | 🌐 Python | 📅 2026-10-05
-* statsmodels：Python的统计建模及计量经济学库。[官网](https://github.com/statsmodels/statsmodels) ⭐ 11,673 | 🐛 2,796 | 🌐 Python | 📅 2026-10-06
-* [PyMC](http://hao.importnew.com/pymc/)：MCMC采样工具包。[官网](https://github.com/pymc-devs/pymc) ⭐ 9,795 | 🐛 522 | 🌐 Python | 📅 2026-10-05
+* zipline：Python的算法交易库。[官网](https://github.com/quantopian/zipline) ⭐ 20,139 | 🐛 367 | 🌐 Python | 📅 2024-02-13
+* SymPy：符号数学Python库。[官网](https://github.com/sympy/sympy) ⭐ 14,992 | 🐛 6,031 | 🌐 Python | 📅 2026-10-05
+* statsmodels：Python的统计建模及计量经济学库。[官网](https://github.com/statsmodels/statsmodels) ⭐ 11,674 | 🐛 2,793 | 🌐 Python | 📅 2026-10-06
+* [PyMC](http://hao.importnew.com/pymc/)：MCMC采样工具包。[官网](https://github.com/pymc-devs/pymc) ⭐ 9,795 | 🐛 523 | 🌐 Python | 📅 2026-10-05
 * ggplot：和R语言里的ggplot2提供同样的API。[官网](https://github.com/yhat/ggplot) ⚠️ Archived
 * vincent：将Python数据结构转换为Vega可视化语法。[官网](https://github.com/wrobstory/vincent) ⚠️ Archived
 * d3py：Python的绘图库，基于D3.js。[官网](https://github.com/mikedewar/d3py) ⭐ 1,416 | 🐛 48 | 🌐 Python | 📅 2020-12-28
